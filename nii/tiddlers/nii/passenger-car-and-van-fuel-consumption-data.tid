@@ -1,6 +1,8 @@
-title: Passenger car and van fuel consumption data
-publisher: Vehicle Certification Agency
+created: 20150528125142046
 link: http://www.data.gov.uk/dataset/passenger-car-and-van-fuel-consumption-data
-tags: Dataset [[Transport and Infrastructure]] [[Performance and Delivery]]
+modified: 20150528132237433
+tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] [[Performance and Delivery]] [[Vehicle Certification Agency]] Annotation
+title: Passenger car and van fuel consumption data
 type: text/vnd.tiddlywiki
 
+This data is marked as "unpublished" but is available from [[carfueldata.direct.gov.uk|http://carfueldata.direct.gov.uk/downloads/default.aspx]] as a CSV in a series of self-extracting zip archive .exe files.

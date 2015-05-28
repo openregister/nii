@@ -1,6 +1,10 @@
-title: Types of court
-publisher: Ministry of Justice
+created: 20150528134433745
 link: http://data.gov.uk/dataset/types-of-court
-tags: Dataset [[Crime and Justice]] [[Location]]
+modified: 20150528134733448
+tags: [[National Information Infrastructure]] Dataset [[Crime and Justice]] Location [[Ministry of Justice]]
+title: Types of court
 type: text/vnd.tiddlywiki
 
+Could make a nice register, or a constraint on the registered list of courts. 
+
+https://www.judiciary.gov.uk/you-and-the-judiciary/going-to-court/
