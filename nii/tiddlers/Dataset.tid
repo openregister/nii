@@ -1,14 +1,14 @@
 created: 20150527055659995
-modified: 20150529113226063
+modified: 20150529160311904
 title: Dataset
 type: text/vnd.tiddlywiki
 
 <table>
-<tr>
-  <th><<tag Register>></th>
-  <th><<tag Statistics>></th>
-  <th><<tag Other>></th>
-  <th><<tag Dataset>></th>
+<tr style="height:3em;">
+  <td><<tag Register>></td>
+  <td><<tag Statistics>></td>
+  <td><<tag Other>></td>
+  <td><<tag Dataset>></td>
 </tr>
 <$list filter="[!has[draft.of]tag[Dataset]]">
 <tr>
@@ -18,4 +18,10 @@ type: text/vnd.tiddlywiki
   <td><$link to={{!!title}}><$view field="title"/></$link></td>
 </tr>
 </$list>
+<tr>
+  <td>''<$count filter="[tag[Register]]"></$count>''</td>
+  <td>''<$count filter="[tag[Statistics]]"></$count>''</td>
+  <td>''<$count filter="[tag[Other]]"></$count>''</td>
+  <td>''Total''</td>
+</tr>
 </table>

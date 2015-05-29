@@ -1,5 +1,12 @@
-title: World Seismicity Database
+created: 20150529160610417
 link: http://data.gov.uk/dataset/world-seismicity-database
-tags:  [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[British Geological Survey]]
+modified: 20150529160709276
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[British Geological Survey]] Register
+title: World Seismicity Database
 type: text/vnd.tiddlywiki
 
+<<<
+This dataset contains parametric data (epicentre, magnitude, depth, etc) for over one million earthquakes worldwide. The dataset has been compiled gradually over a period of thirty years from original third-party catalogues, and parameters have not been revised by BGS, although erroneous entries have been flagged where found. The dataset is kept in two versions: the complete "master" version, in which all entries for any single earthquake from contributing catalogue are preserved, and the "pruned" version, in which each earthquake is represented by a single entry, selected from the contributing sources according to a hierarchy of preferences. The pruned version, which is intended to be free from duplicate entries for the same event, provides a starting point for studies of seismicity and seismic hazard anywhere in the world.
+<<<
+
+Possibly a Register of earthquakes.

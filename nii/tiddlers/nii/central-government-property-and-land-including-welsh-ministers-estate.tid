@@ -1,5 +1,10 @@
-title: Central Government Property and Land including Welsh Ministers Estate
+created: 20150529153930306
 link: http://data.gov.uk/dataset/epims
-tags:  [[National Information Infrastructure]] Dataset [[Government Accountability and Democracy]] Location [[Cabinet Office]]
+modified: 20150529153936012
+tags: [[National Information Infrastructure]] Dataset [[Government Accountability and Democracy]] Location [[Cabinet Office]] Register
+title: Central Government Property and Land including Welsh Ministers Estate
 type: text/vnd.tiddlywiki
 
+<<<
+Data files from e-PIMS, Government's Property and Land asset database containing details of location, tenure and other key attributes for each asset. It includes details about the buildings, any vacant space and occupiers.
+<<<

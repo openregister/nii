@@ -1,5 +1,10 @@
-title: Cycle Routes
+created: 20150529160210680
 link: http://www.data.gov.uk/dataset/cycle-routes
-tags:  [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Department for Transport]]
+modified: 20150529160243500
+tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Department for Transport]] Other
+title: Cycle Routes
 type: text/vnd.tiddlywiki
 
+<<<
+A digital geographical description of the cycle path network that was created for the Transport Direct cycle journey planner. The data describes the cycle route geometry and a variety of features on cycle paths and roads, such as the presence of cycle lanes and toucan crossings. The road data is referenced to the Ordnance Survey digital road network and doesn't include road geometry. The data is free and is made available under the Open Government Licence. THIS DATASET IS NO LONGER UPDATED.
+<<<

@@ -1,5 +1,12 @@
-title: Consumer Price indices
+created: 20150529154306566
 link: http://data.gov.uk/dataset/consumer_price_indices
-tags:  [[National Information Infrastructure]] Dataset [[Companies and Business Development]] [[Performance and Delivery]] [[Office for National Statistics]]
+modified: 20150529154405871
+tags: [[National Information Infrastructure]] Dataset [[Companies and Business Development]] [[Performance and Delivery]] [[Office for National Statistics]] Register
+title: Consumer Price indices
 type: text/vnd.tiddlywiki
 
+<<<
+Contains price indices, percentage changes and weights for the Consumer Prices Index (CPI), Retail Prices Index (RPI) and the components that make up these indices. Internationally, the CPI is known as the Harmonised Index of Consumer Prices (HICP) Source agency: Office for National Statistics Designation: National Statistics Language: English Alternative title: CPI
+<<<
+
+Statistical publication, core reference data should be held in a Register.
