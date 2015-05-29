@@ -1,7 +1,12 @@
 created: 20150528132733146
 link: http://data.gov.uk/dataset/code-point
-modified: 20150528132736535
+modified: 20150529115146552
 tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]]
 title: Code-Point®
 type: text/vnd.tiddlywiki
 
+<<<
+Code-Point provides a precise geographical location for each postcode unit in the United Kingdom. It also contains additional information, for example, PO boxes and the total number of addresses, both domestic and non-domestic, in each postcode unit.
+
+Code-Point includes Gridlink® data. Gridlink is a consortium initiative involving a number of government agencies that have cooperated to improve the consistency and quality of spatially referenced, postcode-based data.
+<<<

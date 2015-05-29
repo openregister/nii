@@ -1,5 +1,16 @@
-title: Car parks
+created: 20150529114950287
 link: http://data.gov.uk/dataset/car-parks
-tags:  [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Department for Transport]]
+modified: 20150529115055809
+tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Department for Transport]]
+title: Car parks
 type: text/vnd.tiddlywiki
 
+<<<
+This dataset of car parks in Great Britain was created for the Transport Direct journey planning website. It includes co-ordinates of each car park and entrance/exit, car park name, locality and operator. The Code-Point® Open Data associated with some car parks is also free and available under Ordnance Survey OpenData™. Please note that Transport Direct ceased operating at the end of September 2014 and the contract to maintain the car park data has now expired. THE CAR PARKS DATASET IS NO LONGER UPDATED.
+
+Although the car park data previously used for Transport Direct is no longer maintained, the following link allows you to access British Parking Association (BPA) Park Mark car park data: http://data.gov.uk/dataset/car-parks-bpa
+
+The static Transport Direct car park data does include some Park Mark car parks, but is no longer updated, and therefore the quality of the data will degrade over-time. The BPA data is updated on a monthly basis.
+<<<
+
+This sounds like a part of [[Code-Point®]].

@@ -1,6 +1,21 @@
 created: 20150527055659995
-modified: 20150528125310363
+modified: 20150529113226063
 title: Dataset
 type: text/vnd.tiddlywiki
 
-{{{ [tag[Dataset]] }}}
+<table>
+<tr>
+  <th><<tag Register>></th>
+  <th><<tag Statistics>></th>
+  <th><<tag Other>></th>
+  <th><<tag Dataset>></th>
+</tr>
+<$list filter="[!has[draft.of]tag[Dataset]]">
+<tr>
+  <td><$checkbox tag="Register"></$checkbox></td>
+  <td><$checkbox tag="Statistics"></$checkbox></td>
+  <td><$checkbox tag="Other"></$checkbox></td>
+  <td><$link to={{!!title}}><$view field="title"/></$link></td>
+</tr>
+</$list>
+</table>

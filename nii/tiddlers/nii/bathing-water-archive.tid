@@ -1,5 +1,10 @@
-title: Bathing water archive
+created: 20150529105318904
 link: http://data.gov.uk/dataset/bathing-water
-tags:  [[National Information Infrastructure]] Dataset [[Energy and the Environment]] [[Performance and Delivery]] [[Department for Environment, Food and Rural Affairs]]
+modified: 20150529113511881
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] [[Performance and Delivery]] [[Department for Environment, Food and Rural Affairs]] Register
+title: Bathing water archive
 type: text/vnd.tiddlywiki
 
+<<<
+The Environment Agency collects water quality data each year from May to September, to ensure that designated bathing water sites on the coast and inland are safe and clean for swimming and other activities. This data is provided through a api based interface as a data service and is reusable and accessible to developers and to members of the public, It is published as linked data, but also available in other forms including CSV and JSON. See api and data models documentation for detail plus access to data dumps and data slices.
+<<<
