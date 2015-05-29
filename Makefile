@@ -16,7 +16,7 @@ deploy:	$(INDEX)
 # bootstrap from the CSV
 seed:	nii.csv
 	mkdir -p $(TIDDLERS)
-	./seed.pl $(TIDDLERS) < nii.csv
+	seed/seed.pl $(TIDDLERS) < seed/nii.csv
 
 nii.csv:
 	curl $(URL) -z nii.csv -o nii.csv --silent --location
