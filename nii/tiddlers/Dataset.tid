@@ -1,31 +1,8 @@
 created: 20150527055659995
-modified: 20150530183403217
+modified: 20150530194402609
 title: Dataset
 type: text/vnd.tiddlywiki
 
-<table>
-<tr style="height:3em;">
-  <td><<tag Register>></td>
-  <td><<tag Statistics>></td>
-  <td><<tag Other>></td>
-  <td><<tag Dataset>></td>
-  <td><<tag Publisher>></td>
-</tr>
-<$list filter="[!has[draft.of]tagging[]sort[title]]">
-<tr>
-  <td><$checkbox tag="Register"/></td>
-  <td><$checkbox tag="Statistics"/></td>
-  <td><$checkbox tag="Other"/></td>
-  <td><$link to={{!!title}}><$view field="title"/></$link></td>
-  <td><$list filter="[all[current]tags[]tag[Publisher]first[]]"><<tag>></$list></td>
-</tr>
-</$list>
-<tr>
-  <td>''<$count filter="[tag[Register]]"/>''</td>
-  <td>''<$count filter="[tag[Statistics]]"/>''</td>
-  <td>''<$count filter="[tag[Other]]"/>''</td>
-  <td colspan="2">''Totals''</td>
-</tr>
-</table>
+{{ ||dataset-table }}
 
 See also: [[Uncategorised Dataset]].
