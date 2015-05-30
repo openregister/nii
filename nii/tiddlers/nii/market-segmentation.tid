@@ -1,5 +1,15 @@
-title: Market Segmentation
+created: 20150530165815831
 link: http://www.data.gov.uk/dataset/market-segmentation
-tags:  [[National Information Infrastructure]] Dataset [[Society and Culture]] Location [[Sport England]]
+modified: 20150530165827806
+tags: [[National Information Infrastructure]] Dataset [[Society and Culture]] Location [[Sport England]] Register
+title: Market Segmentation
 type: text/vnd.tiddlywiki
 
+<<<
+Segmentation of the adult England population with interactive tool and raw data to help understand where different types of people are located and how to reach them. Postcode level data with segment counts available to download.
+
+Youth segmentation is being developed and will be added to this tool in autumn 2013
+
+Release Notes:
+The tool is freely available at http://segments.sportengland.org/ and postcode level data is available to download at 'raw data' section (free to all, users need to supply email address to download raw data)
+<<<

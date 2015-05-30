@@ -1,5 +1,10 @@
-title: OS Locator
+created: 20150530173828843
 link: http://data.gov.uk/dataset/os-locator1
-tags:  [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]]
+modified: 20150530173840814
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
+title: OS Locator
 type: text/vnd.tiddlywiki
 
+<<<
+OS Locator is a fully searchable national gazetteer of road names. It enables users to identify and find specific locations by a number of criteria including locality, settlement, local authority and county. It has been created to complement Ordnance Survey's range of mid-scales raster map data products, such as OS Street View®. As a point-based gazetteer of road names OS Locator does not contain any road geometry although it does contain coordinates to create a minimum bounding rectangle encompassing the extent of the road referenced in the gazetteer. Results of searches can be easily visualised using the gazetteer in conjunction with other products available in the OS OpenData Catalogue such as OS VectorMap™ District and OS Street View.
+<<<

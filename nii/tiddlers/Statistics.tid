@@ -1,9 +1,9 @@
 created: 20150527104028084
-modified: 20150527104320379
+modified: 20150530193525059
 tags: Annotation
 title: Statistics
 type: text/vnd.tiddlywiki
 
 Statistics indicates a periodic publication, unlikely to be a register.
 
-{{{ [tag[Statistics]] }}}
+{{ ||dataset-table }}

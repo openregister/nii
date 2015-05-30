@@ -1,5 +1,10 @@
-title: Networks: Paths, Water, Rail
+created: 20150530181836735
 link: http://data.gov.uk/dataset/networks-paths-water-rail
-tags:  [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]]
+modified: 20150530181849097
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
+title: Networks: Paths, Water, Rail
 type: text/vnd.tiddlywiki
 
+<<<
+Each layer consists of specific singular content portraying Path and Track, Rail or Water network information which can be queried using Geographic Information Systems as part of wider planning and asset management
+<<<

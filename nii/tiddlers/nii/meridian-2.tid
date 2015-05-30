@@ -1,5 +1,14 @@
-title: Meridian 2
+created: 20150530161446978
 link: http://data.gov.uk/dataset/meridian-2
-tags:  [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]]
+modified: 20150530161509806
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
+title: Meridian 2
 type: text/vnd.tiddlywiki
 
+<<<
+MeridianTM 2 is a mid-scale digital representation of Great Britain that allows considerable customisation of its Communication and Topographic themes, which means that the user can create functional geographic solutions for their business needs.
+
+All of the geographical features are extracted from existing Ordnance Survey databases and are fully maintained in order to deliver an 6 monthly product update. When used in conjunction with users own compatible data the resulting application is a truly useful GIS asset.
+
+The product is typically viewed at 1:50,000 and at this scale the generalisation of its features maintain geometric integrity and accuracy.
+<<<

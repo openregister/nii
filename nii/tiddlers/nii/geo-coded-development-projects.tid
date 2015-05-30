@@ -1,5 +1,20 @@
-title: Geo-coded development Projects
+created: 20150530174524105
 link: http://www.data.gov.uk/dataset/info-dfid-aid-projects
-tags:  [[National Information Infrastructure]] Dataset [[Global Development]] Location [[Department for International Development]]
+modified: 20150530174535773
+tags: [[National Information Infrastructure]] Dataset [[Global Development]] Location [[Department for International Development]] Register
+title: Geo-coded development Projects
 type: text/vnd.tiddlywiki
 
+<<<
+DFID publish the following information on a monthly basis:
+
+Details on international development projects including budgets and financial transactions.
+Information on sectors, geographical location (including sub-national geolocations).
+All core project documentation, including business cases, annual reviews, completion reports, and evaluations. In addition we will publish country plans and formal agreements with partners. Project summaries are published and translated into major local languages of the relevant countries.
+Further data is being gathered on sub-national locations and results, and will be released as it becomes available.
+
+The data is published in an open, accessible format, using the International Aid Transparency Initiative (IATI) open standard, in XML format.
+Data is also presented in a more visual form on the http://devtracker.dfid.gov.uk.
+
+A small number of exclusions will apply to sensitive information, based on the key principles of the UK’s Freedom of Information Act.
+<<<

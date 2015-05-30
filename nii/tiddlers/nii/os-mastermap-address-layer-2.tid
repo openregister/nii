@@ -1,5 +1,29 @@
-title: OS MasterMap Address Layer 2
+created: 20150530173915768
 link: http://data.gov.uk/dataset/os-mastermap-address-layer-2
-tags:  [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]]
+modified: 20150530173929083
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
+title: OS MasterMap Address Layer 2
 type: text/vnd.tiddlywiki
 
+<<<
+OS MasterMap Address Layer 2 builds on the success of Ordnance Survey's current addressing products by offering significant enhancements such as:
+
+Alternative geographic addresses – for example, 12 Old Town, London, SW4 0JY is also available as 12 Old Town, Clapham, London, SW4 0JY. It now includes the locality or district name where this is not normally included. This is provided in BS7666 part 3 format.
+
+Classifications – each address is classified as either residential or commercial. These are then further analysed where the trading or brand name provides clear details of their function, for example, Barclays Bank – Bank, and W H Smith – Retail. Each address has up to four classifications.
+
+Building name aliases – buildings that may be known by a name as well as a house number. For example, Railway Cottage may also be known as 61 Station Road.
+
+Objects without a postal address (OWPA) – buildings and other features that do not have a postal address such as churches, community centres, depots, masts and so on.
+Multi-occupancies without a postal addresses (MOWPA) – details of individual households that currently do not have mail delivered to their own letter box, such as flats, together with details of subdivided business premises.
+
+Welsh alternatives – for example, 13 Mill Street, Aberystwyth, SY23 1HZ could also be 13 Dan Dre, Aberystwyth, SY23 1HZ.
+
+Cross-reference table - provides a direct link between the themes within OS MasterMap's Address Layer 2 and external datasets, currently, Royal Mail's Postal Delivery Points and the Valuation Office Agency's unique address reference number from their Non Domestic Rates file.
+
+The cross-reference table is available to order free of charge. Please phone 02380 305520 for further information.
+
+Like ADDRESS-POINT® and Address Layer, Address Layer 2 is based on the Royal Mail® Postcode Address File (PAF®) and provides a spatial coordinate to a resolution of 0.1 m for each address.
+
+OS MasterMap Address Layer will continue to run alongside Address Layer 2. For more information on Address Layer please visit the Address Layer product pages.
+<<<

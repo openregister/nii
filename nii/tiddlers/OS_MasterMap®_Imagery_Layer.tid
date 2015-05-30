@@ -1,7 +1,12 @@
 created: 20150528133305548
 link: http://data.gov.uk/dataset/os-mastermap-imagery-layer
-modified: 20150528133307948
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]]
+modified: 20150530174017483
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Other
 title: OS MasterMap® Imagery Layer
 type: text/vnd.tiddlywiki
 
+<<<
+The OS MasterMap Imagery Layer is a maintained seamless digital dataset of high-quality 24-bit colour orthorectified aerial photography of Great Britain. It provides vital information that cannot be gained from mapping alone, allowing identification and monitoring of features such as road markings, trees, pipe networks, paths and land surface.
+
+The imagery is colour balanced and fully orthorectified, meaning that it accurately reflects the position of features at ground level without distortion. This also ensures accurate alignment with all the other layers in the OS MasterMap family and customer data.
+<<<

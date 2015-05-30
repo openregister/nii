@@ -1,5 +1,10 @@
-title: Hydrographic Data
+created: 20150530160211686
 link: http://data.gov.uk/dataset/hydrographic-data
-tags:  [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Maritime and Coastguard Agency]]
+modified: 20150530172721469
+tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Maritime and Coastguard Agency]] Register
+title: Hydrographic Data
 type: text/vnd.tiddlywiki
 
+<<<
+Seabed depth data, seabed salinity data and tidal data.
+<<<

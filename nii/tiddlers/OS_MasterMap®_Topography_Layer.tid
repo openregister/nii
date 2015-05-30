@@ -1,7 +1,10 @@
 created: 20150528132805649
 link: http://data.gov.uk/dataset/os-mastermap-topography-layer
-modified: 20150528132809150
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]]
+modified: 20150530173513919
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Other
 title: OS MasterMap® Topography Layer
 type: text/vnd.tiddlywiki
 
+<<<
+The OS MasterMap Topography Layer is a large-scale digital database of the detailed surface features on the landscape, with relative positions and elevations of every town, manor, parish, or tract of land mapped to minute detail. This highly accurate, flexible resource covers some 400 million man-made and natural features, from fields to pillar boxes, each with its own unique identifier or TOIDÂ® for easy reference. It is broken down into nine themes to make it easier to access the data; roads, tracks and paths; land; buildings; water; rail; height; heritage; structures; and administrative boundaries. There is the choice of a single theme, a combination of themes or all of the above. When overlaid with other OS MasterMap layers or the customer's own data, it will provide a clear picture of what's on the ground. The Topography Layer helps in the planning and management of land and property by enabling users to visualise the context of any feature or site, to pinpoint individual properties and precise sites when a high level of detail is required, and to assess the impact of a proposed development effectively and efficiently. It is data association that makes OS MasterMap intelligent. It enables organisations to link their own data to that of the digital map. By associating their data to the OS MasterMap features, organisations are then able to analyse a richer database, and can search and query using their own data fields as well as the attributes provided by OS MasterMap.
+<<<

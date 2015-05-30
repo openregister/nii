@@ -1,5 +1,22 @@
-title: GB Road Traffic counts
+created: 20150530175117603
 link: http://www.data.gov.uk/dataset/gb-road-traffic-counts
-tags:  [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] [[Performance and Delivery]] [[Department for Transport]]
+modified: 20150530175128593
+tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] [[Performance and Delivery]] [[Department for Transport]] Register
+title: GB Road Traffic counts
 type: text/vnd.tiddlywiki
 
+<<<
+The Department for Transport collects traffic data to produce statistics on the level of traffic on roads in Great Britain. This website provides the underlying street-level data for download.
+
+Other sources of DfT traffic data are:
+
+Summary statistics of road traffic are published on an annual and quarterly basis at https://www.gov.uk/government/collections/road-traffic-statistics
+
+The most user-friendly method to access street-level road traffic estimates, with an interactive mapping tool, is via http://www.dft.gov.uk/traffic-counts/
+
+Data are available for each junction to junction link on the major road network (motorways and A roads). Data are also available for the sample of points on the minor road network (B, C and unclassified roads) that are counted each year, and these counts are used to produce estimates of traffic growth on minor roads.
+
+The data are produced for every year, and are in three formats: a) the raw manual count data collected by trained enumerators; b) Annual Average Daily Flows (AADFs) for count points on major roads and minor roads; and c) traffic figures for major roads only. Explanatory notes (metadata) are available for each dataset, and in one combined note.
+
+A description of how annual road traffic estimates are produced is available at https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/270083/contents-page.pdf
+<<<

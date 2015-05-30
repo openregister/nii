@@ -1,5 +1,13 @@
-title: Import licence applications
+created: 20150530181747060
 link: http://data.gov.uk/dataset/import-licence-applications
-tags:  [[National Information Infrastructure]] Dataset [[Companies and Business Development]] Fiscal [[Department for Business, Innovation and Skills]]
+modified: 20150530181757706
+tags: [[National Information Infrastructure]] Dataset [[Companies and Business Development]] Fiscal [[Department for Business, Innovation and Skills]] Register
+title: Import licence applications
 type: text/vnd.tiddlywiki
 
+<<<
+The Import Licensing Branch (ILB) controls the importation of certain sensitive goods into the UK. It does this by issuing import licences to companies who wish to bring controlled goods into the UK from overseas. ILB maintains records of licence applications on its electronic licence application system ("SPIRE") and on its document management system ("Matrix").
+
+Release Notes:
+N/A. There are no plans to place comprehensive data into the public domain for reasons of commercial confidentiality.
+<<<

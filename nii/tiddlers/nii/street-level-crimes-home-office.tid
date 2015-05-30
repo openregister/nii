@@ -1,5 +1,12 @@
-title: Street level crimes (Home Office)
+created: 20150530173012117
 link: http://data.gov.uk/dataset/england-national-crime-mapping
-tags:  [[National Information Infrastructure]] Dataset [[Crime and Justice]] [[Performance and Delivery]] [[Home Office]]
+modified: 20150530173043519
+tags: [[National Information Infrastructure]] Dataset [[Crime and Justice]] [[Performance and Delivery]] [[Home Office]] Register Statistics
+title: Street level crimes (Home Office)
 type: text/vnd.tiddlywiki
 
+<<<
+Crime data and neighbourhood policing information from all forces in England and Wales to the Public. This data is what is behind the police.uk website.
+
+The Police API allows you to retrieve information about neighbourhood areas in all 43 English & Welsh police forces. All forces are required to keep this data accurate and up to date, so the API provides a rich and definitive data source for crime statistics at both street and neighourhood level.
+<<<

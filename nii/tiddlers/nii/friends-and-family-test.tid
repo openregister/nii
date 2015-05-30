@@ -1,5 +1,10 @@
-title: Friends and Family Test
+created: 20150530172133437
 link: http://www.data.gov.uk/dataset/friends_and_family_test
-tags:  [[National Information Infrastructure]] Dataset [[Health and Social Care]] [[Performance and Delivery]] [[NHS England]]
+modified: 20150530172149997
+tags: [[National Information Infrastructure]] Dataset [[Health and Social Care]] [[Performance and Delivery]] [[NHS England]] Statistics
+title: Friends and Family Test
 type: text/vnd.tiddlywiki
 
+<<<
+The responses of maternity patients, and patients who have been treated in an acute setting as inpatients or in A&E, to the question "how likely are you to recommend our ward/A&E department to friends and family if they needed similar care or treatment?" The score is presented as the proportion of patients who were "very likely" to recommend minus those who were "unlikely" or "very unlikely" to recommend, or who responded "don't know". Data are published at trust, site, and ward level.
+<<<

@@ -1,5 +1,10 @@
-title: Disqualified Directors Dataset
+created: 20150530160648703
 link: http://data.gov.uk/dataset/disqualified-directors-dataset
-tags:  [[National Information Infrastructure]] Dataset [[Companies and Business Development]] Operational [[Companies House]]
+modified: 20150530160656634
+tags: [[National Information Infrastructure]] Dataset [[Companies and Business Development]] Operational [[Companies House]] Register
+title: Disqualified Directors Dataset
 type: text/vnd.tiddlywiki
 
+<<<
+Details of all individuals disqualified from being directors of companies or members of Limited Liability Partnerships. It provides the start and end dates of the disqualification and the section of the Company Directors Disqualification Act 1986 that the director has been disqualified under.
+<<<

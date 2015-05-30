@@ -1,5 +1,16 @@
-title: Private Finance Initiative Data
+created: 20150530172240371
 link: http://data.gov.uk/dataset/private-finance-initiative-pfi-data
-tags:  [[National Information Infrastructure]] Dataset [[Government Accountability and Democracy]] Fiscal [[Her Majesty's Treasury]]
+modified: 20150530172324853
+tags: [[National Information Infrastructure]] Dataset [[Government Accountability and Democracy]] Fiscal [[Her Majesty's Treasury]] Register
+title: Private Finance Initiative Data
 type: text/vnd.tiddlywiki
 
+<<<
+We publish data on all current Private Finance Initiative (PFI) projects once a year. The information is provided by the departments and Devolved Administrations that procured or sponsored the projects, and is not audited by us.
+
+This year the full consolidated list will be published in the autumn. In the meantime we’ve published a list of those projects which reached financial close between 1 April 2012 and 31 March 2013, and the projects which were in procurement as at 31 March 2013.
+
+As set out in the PF2 policy document, ‘A new approach to public private partnerships’, business case approval trackers have also been published in response to calls from the private sector for greater transparency of the government’s approval process. These trackers provide procurement status updates on legacy PFI and new PF2 projects.
+<<<
+
+Currently a periodical statistical publication, the underlying data should probably be registered.

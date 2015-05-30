@@ -1,5 +1,10 @@
-title: Grants for the Arts Awards
+created: 20150530182145017
 link: http://www.data.gov.uk/dataset/grants-for-the-arts-awards-arts-council-england
-tags:  [[National Information Infrastructure]] Dataset [[Society and Culture]] Fiscal [[Arts Council England]]
+modified: 20150530182148536
+tags: [[National Information Infrastructure]] Dataset [[Society and Culture]] Fiscal [[Arts Council England]]
+title: Grants for the Arts Awards
 type: text/vnd.tiddlywiki
 
+<<<
+Hard commitments awarded to successful grant applicants. Dataset includes unique reference number, name of recipient, project name, amount awarded, date of award, region, local authority, constituency and main artform.
+<<<

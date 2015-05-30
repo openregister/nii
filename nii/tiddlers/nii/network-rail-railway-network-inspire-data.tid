@@ -1,5 +1,10 @@
-title: Network Rail - railway network Inspire data
+created: 20150530182704945
 link: http://data.gov.uk/dataset/railway-network-inspire
-tags:  [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Department for Transport]]
+modified: 20150530182720033
+tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Department for Transport]] Register
+title: Network Rail - railway network Inspire data
 type: text/vnd.tiddlywiki
 
+<<<
+This data contains points detailing the location of each Station in the UK and the centre line of the railway track for the network that is managed by Network Rail. It is one of the UK data sets within the Inspire Transport Theme. It is expected the data set from Network Rail will be updated on a six monthly basis.
+<<<

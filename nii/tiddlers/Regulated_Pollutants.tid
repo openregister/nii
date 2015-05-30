@@ -1,7 +1,13 @@
 created: 20150528132924654
 link: http://data.gov.uk/dataset/regulated-pollutants
-modified: 20150528132933620
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] [[Performance and Delivery]] [[Department for Environment, Food and Rural Affairs]]
+modified: 20150530172829393
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] [[Performance and Delivery]] [[Department for Environment, Food and Rural Affairs]] Register
 title: Regulated Pollutants
 type: text/vnd.tiddlywiki
 
+<<<
+Connective Reference Data (Code-List) that lists the pollutants that Defra and its Arms Length Bodies regulate. This does not currently exist in a consolidated form but exists in part in each operational database/system across Defra and its Arms length bodies/Agencies.
+
+Release Notes:
+These will be made available as open data but the commitment date is to be confirmed in the Defra Open Data Strategy implementation
+<<<

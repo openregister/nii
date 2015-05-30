@@ -1,5 +1,13 @@
-title: Outcomes for Children Looked After
+created: 20150530175633021
 link: http://data.gov.uk/dataset/outcomes-for-children-looked-after
-tags:  [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Department for Education]]
+modified: 20150530175646803
+tags: [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Department for Education]] Register
+title: Outcomes for Children Looked After
 type: text/vnd.tiddlywiki
 
+<<<
+Information on the educational attainment, special educational needs, absence and exclusions of children looked after is obtained through matching children looked after data with data in the national pupil database each year. Data are available at individual child level.
+
+Release Notes:
+The data relating to children looked after by local authorities is not published in its raw form as it contains data defined as personal and sensitive personal data by the Data Protection Act 1998 but a wide range of aggregate outputs including official statistics are published on a regular basis. Some of the more commonly used raw data on children looked after is held in the Department's national pupil database . The Secretary of State can share raw data from national pupil database under strict terms and conditions with named bodies and third parties who for the purpose of promoting the education or wellbeing of children in England are conducting research or analysis, producing statistics, or providing information, advice or guidance. This has provided invaluable evidence on education to inform independent research, as well as studies commissioned by the Department. Access is subject to requesters complying with terms and conditions imposed under contractual arrangements and a rigorous accreditation process.
+<<<

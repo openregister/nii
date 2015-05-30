@@ -1,5 +1,10 @@
-title: OS OnDemand
+created: 20150530173434928
 link: http://data.gov.uk/dataset/os-ondemand1
-tags:  [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]]
+modified: 20150530173444888
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Other
+title: OS OnDemand
 type: text/vnd.tiddlywiki
 
+<<<
+OS OnDemand is a web map service that delivers our mapping over the web directly into your organisation. The service offers you mapping of Great Britain at a range of scales, making it ideal for a huge variety of applications. OS OnDemand is based on open standards and compliant with the Open Geospatial Consortium (OGC®) web services standard for use via a browser or a geographic information system (GIS).
+<<<

@@ -1,5 +1,10 @@
-title: OS MasterMap Sites Layer
+created: 20150530174040022
 link: http://data.gov.uk/dataset/os-mastermap-sites-layer
-tags:  [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]]
+modified: 20150530174050775
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
+title: OS MasterMap Sites Layer
 type: text/vnd.tiddlywiki
 
+<<<
+The OS MasterMap Sites Layer dataset is intended to provide a nationally consistent representation of polygon features that represent the operational extent of certain types of function or activity. Additional access and routing points to the sites are provided where discernible.
+<<<

@@ -1,6 +1,7 @@
-created: 20150527055659995
-modified: 20150530183403217
-title: Dataset
+created: 20150530155005353
+modified: 20150530170338679
+tags: 
+title: Uncategorised Dataset
 type: text/vnd.tiddlywiki
 
 <table>
@@ -11,7 +12,7 @@ type: text/vnd.tiddlywiki
   <td><<tag Dataset>></td>
   <td><<tag Publisher>></td>
 </tr>
-<$list filter="[!has[draft.of]tagging[]sort[title]]">
+<$list filter="[!has[draft.of]tag[Dataset]!tag[Other]!tag[Statistics]!tag[Register]]">
 <tr>
   <td><$checkbox tag="Register"/></td>
   <td><$checkbox tag="Statistics"/></td>
@@ -20,12 +21,4 @@ type: text/vnd.tiddlywiki
   <td><$list filter="[all[current]tags[]tag[Publisher]first[]]"><<tag>></$list></td>
 </tr>
 </$list>
-<tr>
-  <td>''<$count filter="[tag[Register]]"/>''</td>
-  <td>''<$count filter="[tag[Statistics]]"/>''</td>
-  <td>''<$count filter="[tag[Other]]"/>''</td>
-  <td colspan="2">''Totals''</td>
-</tr>
 </table>
-
-See also: [[Uncategorised Dataset]].

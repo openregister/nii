@@ -1,5 +1,14 @@
-title: Government Transactional Services
+created: 20150530182944708
 link: http://data.gov.uk/dataset/government-transactional-services
-tags:  [[National Information Infrastructure]] Dataset [[Government Accountability and Democracy]] [[Performance and Delivery]] [[Cabinet Office]]
+modified: 20150530182957300
+tags: [[National Information Infrastructure]] Dataset [[Government Accountability and Democracy]] [[Performance and Delivery]] [[Cabinet Office]] Other
+title: Government Transactional Services
 type: text/vnd.tiddlywiki
 
+<<<
+The government's transactional services range from booking driving tests and filing tax returns, to applying for a fishing rod licence and setting up a company: all services managed by public bodies which involve sharing information, requesting services, buying goods, asking for permission, or transferring money.
+
+The data includes the name of each transactional service together with the sponsoring department or body, the total number of transactions completed over the last year, and the type of service offered.
+
+For high-volume services, the data also includes a description of the service, an average cost per transaction, and notes on services costs.
+<<<

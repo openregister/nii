@@ -1,5 +1,14 @@
-title: Employment & Earnings
+created: 20150530173319760
 link: http://data.gov.uk/dataset/employment-earnings
-tags:  [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Office for National Statistics]]
+modified: 20150530173355605
+tags: [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Office for National Statistics]] Statistics
+title: Employment & Earnings
 type: text/vnd.tiddlywiki
 
+<<<
+Average weekly earnings time series dataset
+
+This dataset contains time series estimates of GB earnings growth sourced from the Monthly Wages and Salaries Survey. The dataset is overwritten every month and it therefore always contains the latest published data. The Time Series dataset facility is a tabulation tool primarily designed for users who wish to customise their own datasets.
+
+Previously named Employment & Earnings
+<<<

@@ -1,5 +1,10 @@
-title: Protected Sites Service
+created: 20150530160843500
 link: http://www.data.gov.uk/dataset/english-heritage-protected-sites-service
-tags:  [[National Information Infrastructure]] Dataset [[Society and Culture]] Location [[English Heritage]]
+modified: 20150530160853675
+tags: [[National Information Infrastructure]] Dataset [[Society and Culture]] Location [[English Heritage]] Register
+title: Protected Sites Service
 type: text/vnd.tiddlywiki
 
+<<<
+The English Heritage ‘Protected Sites’ web map service provides the following datasets: Listed Buildings, Scheduled Monuments, Protected Wrecks, Conservation Areas, World Heritage Sites, Battlefields and Parks and Gardens.
+<<<

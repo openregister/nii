@@ -1,5 +1,10 @@
-title: National Library Medicine Catalogue (pathology reference data)
+created: 20150530182758339
 link: http://www.connectingforhealth.nhs.uk/systemsandservices/pathology/projects/nlmc
-tags:  [[National Information Infrastructure]] Dataset [[Health and Social Care]] Operational [[NHS England]]
+modified: 20150530182903850
+tags: [[National Information Infrastructure]] Dataset [[Health and Social Care]] Operational [[NHS England]] Register
+title: National Library Medicine Catalogue (pathology reference data)
 type: text/vnd.tiddlywiki
 
+<<<
+Pathology Messaging supports electronic communications between laboratories and General Practice, including a Pathology Bounded Code List.
+<<<

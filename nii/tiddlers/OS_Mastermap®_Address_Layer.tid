@@ -1,7 +1,20 @@
 created: 20150528133233835
 link: http://data.gov.uk/dataset/os-mastermap-address-layer
-modified: 20150528133235770
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]]
+modified: 20150530181458864
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
 title: OS Mastermap® Address Layer
 type: text/vnd.tiddlywiki
 
+<<<
+The OS MasterMap Address Layer provides precise coordinates for more than 27 million residential and commercial properties in Great Britain – the most accurate and up-to-date link between any property address and its location on the map. The Address Layer originates from the Royal Mail's postcode address file (PAF®). Ordnance Survey uses on-the-ground GPS survey, aerial imagery and various other techniques to establish precise coordinates for each address and match this to the property on the map – effectively joining up postal and topographic geography, creating a fixed link between the property and its address.
+
+Addresses are subject to a high level of change from:
+
+* the creation of a new property;
+* property redevelopment; and
+* house or street name changes.
+
+OS MasterMap Address Layer provides a robust mechanism for professional users to track and manage these address changes relating to the actual property on the ground, and a continuity between a physical property (essentially unchanging) and the dynamics describing that property (changeable).
+<<<
+
+Pretty much synonymous with [[AddressBase™]].

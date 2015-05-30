@@ -1,5 +1,13 @@
-title: National Energy Efficiency Data Framework
+created: 20150530182625662
 link: http://data.gov.uk/dataset/national-energy-efficiency-data-framework
-tags:  [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Department of Energy and Climate Change]]
+modified: 20150530182641260
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Department of Energy and Climate Change]] Register
+title: National Energy Efficiency Data Framework
 type: text/vnd.tiddlywiki
 
+<<<
+Annual gas and electricity consumption data for individual meters matched at property level to other information on the energy efficiency measures in the properties and characteristics of the property and occupiers
+
+Release Notes:
+Release of anonymised record level data planned for early 2014
+<<<
