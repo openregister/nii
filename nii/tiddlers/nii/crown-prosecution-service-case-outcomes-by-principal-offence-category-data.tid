@@ -1,5 +1,10 @@
-title: Crown Prosecution Service Case Outcomes by Principal Offence Category Data
+created: 20150529202611252
 link: http://www.data.gov.uk/dataset/crown-prosecution-service-case-outcomes-by-principal-offence-category-data
-tags:  [[National Information Infrastructure]] Dataset [[Crime and Justice]] [[Performance and Delivery]] [[Crown Prosecution Service]]
+modified: 20150529202629926
+tags: [[National Information Infrastructure]] Dataset [[Crime and Justice]] [[Performance and Delivery]] [[Crown Prosecution Service]] Statistics
+title: Crown Prosecution Service Case Outcomes by Principal Offence Category Data
 type: text/vnd.tiddlywiki
 
+<<<
+A monthly breakdown of criminal case outcomes by principal offence category and CPS Area. The method of providing data changed in September 2012, taking into account the new structure of CPS Areas and presenting the data in one file instead of several files for each month. This data is therefore now also presented as a time series file.
+<<<

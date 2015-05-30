@@ -1,7 +1,12 @@
 created: 20150529105344019
 link: http://data.gov.uk/dataset/broadband-coverage
-modified: 20150529105342928
+modified: 20150530145430653
 tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] [[Performance and Delivery]] [[Office of Communications]] Other
 title: Broadband Coverage
 type: text/vnd.tiddlywiki
 
+<<<
+This data shows accurate information on broadband take-up, speeds and availability. It has been produced by Ofcom and contains data provided by communications providers.
+
+It forms part of Ofcom's ongoing work to provide useful information about broadband in the UK.
+<<<

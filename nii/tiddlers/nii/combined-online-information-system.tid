@@ -1,5 +1,10 @@
-title: Combined Online Information System
+created: 20150529201942660
 link: http://data.gov.uk/dataset/coins
-tags:  [[National Information Infrastructure]] Dataset [[Government Accountability and Democracy]] Fiscal [[Her Majesty's Treasury]]
+modified: 20150529201959730
+tags: [[National Information Infrastructure]] Dataset [[Government Accountability and Democracy]] Fiscal [[Her Majesty's Treasury]] Register
+title: Combined Online Information System
 type: text/vnd.tiddlywiki
 
+<<<
+The Combined Online Information System (COINS) is the database for UK Government expenditure. The data is used to produce expenditure data in the Budget report; Supply Estimates; Public Expenditure Statistical Analyses (PESA); Whole of Government Accounts (WGA); the monthly Public Sector Finance Releases. It is also used by the ONS for other National Statistics releases.
+<<<

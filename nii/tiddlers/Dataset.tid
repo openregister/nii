@@ -1,5 +1,5 @@
 created: 20150527055659995
-modified: 20150529160311904
+modified: 20150530143449394
 title: Dataset
 type: text/vnd.tiddlywiki
 
@@ -9,19 +9,21 @@ type: text/vnd.tiddlywiki
   <td><<tag Statistics>></td>
   <td><<tag Other>></td>
   <td><<tag Dataset>></td>
+  <td><<tag Publisher>></td>
 </tr>
 <$list filter="[!has[draft.of]tag[Dataset]]">
 <tr>
-  <td><$checkbox tag="Register"></$checkbox></td>
-  <td><$checkbox tag="Statistics"></$checkbox></td>
-  <td><$checkbox tag="Other"></$checkbox></td>
+  <td><$checkbox tag="Register"/></td>
+  <td><$checkbox tag="Statistics"/></td>
+  <td><$checkbox tag="Other"/></td>
   <td><$link to={{!!title}}><$view field="title"/></$link></td>
+  <td><$list filter="[all[current]tags[]tag[Publisher]first[]]"><<tag>></$list></td>
 </tr>
 </$list>
 <tr>
-  <td>''<$count filter="[tag[Register]]"></$count>''</td>
-  <td>''<$count filter="[tag[Statistics]]"></$count>''</td>
-  <td>''<$count filter="[tag[Other]]"></$count>''</td>
+  <td>''<$count filter="[tag[Register]]"/>''</td>
+  <td>''<$count filter="[tag[Statistics]]"/>''</td>
+  <td>''<$count filter="[tag[Other]]"/>''</td>
   <td>''Total''</td>
 </tr>
 </table>

@@ -1,5 +1,10 @@
-title: Collections Online
+created: 20150529201728912
 link: http://www.data.gov.uk/dataset/collections-online
-tags:  [[National Information Infrastructure]] Dataset [[Society and Culture]] Location [[The British Museum]]
+modified: 20150529201738254
+tags: [[National Information Infrastructure]] Dataset [[Society and Culture]] Location [[The British Museum]] Register
+title: Collections Online
 type: text/vnd.tiddlywiki
 
+<<<
+The database is an inventory of the British Museum’s collection and aims to record what is known about it. It is primarily designed to support curatorial and research work, and much of the text is specialised in nature and terminology. When complete the database will contain a record of every object in the Museum collection, with associated conservation and scientific reports where available
+<<<

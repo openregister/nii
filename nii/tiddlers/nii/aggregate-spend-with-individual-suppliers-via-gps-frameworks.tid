@@ -1,7 +1,12 @@
 created: 20150529105159413
 link: http://data.gov.uk/dataset/aggregate-spend-with-individual-suppliers-via-gps-frameworks
-modified: 20150529105158221
-tags: [[National Information Infrastructure]] Dataset [[Government Accountability and Democracy]] Fiscal [[Cabinet Office]] Other
+modified: 20150530142708292
+tags: [[National Information Infrastructure]] Dataset [[Government Accountability and Democracy]] Fiscal [[Cabinet Office]] Register
 title: Aggregate spend with individual suppliers via GPS frameworks
 type: text/vnd.tiddlywiki
 
+<<<
+A ranking of how much business is being transacted with suppliers across government via GPS Frameworks
+<<<
+
+The underlying data for this publication is likely to be something which should be recorded in a Register.

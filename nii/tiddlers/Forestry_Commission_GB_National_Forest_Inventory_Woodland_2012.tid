@@ -1,7 +1,12 @@
 created: 20150528133121479
 link: http://data.gov.uk/dataset/forestry-commission-gb-national-forest-inventory-woodland
-modified: 20150528133129280
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Forestry Commission]]
+modified: 20150530152218255
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Forestry Commission]] Register
 title: Forestry Commission GB National Forest Inventory Woodland 2012
 type: text/vnd.tiddlywiki
 
+<<<
+The primary objective is to create a new digital map of all woodland in Great Britain using O.S.MasterMap features as boundaries where appropriate. The map shows the extent of all woodland of 0.5 ha and over by interpreted forest type and includes interpreted open areas within woodland. The secondary objective is to compare the NFI woodland map with the original NIWT woodland map to identify; real woodland gains, real woodland losses and discrepancies caused by digitising / mapping anomalies.
+
+Data available for download at; http://www.forestry.gov.uk/datadownload
+<<<

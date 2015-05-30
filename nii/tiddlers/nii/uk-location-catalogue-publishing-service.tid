@@ -1,5 +1,12 @@
-title: UK Location Catalogue Publishing Service
+created: 20150529203627752
 link: http://data.gov.uk/dataset/uk-location-catalogue-publishing-service
-tags:  [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]]
+modified: 20150529203640698
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
+title: UK Location Catalogue Publishing Service
 type: text/vnd.tiddlywiki
 
+<<<
+The OGC CSW / INSPIRE Discovery Service for the UK Location catalogue.
+
+Note: the OGC Harvest / INSPIRE Publish operation is implemented by data.gov.uk
+<<<

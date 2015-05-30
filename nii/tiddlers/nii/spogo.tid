@@ -1,5 +1,13 @@
-title: Spogo
+created: 20150529211000728
 link: http://data.gov.uk/dataset/spogo
-tags:  [[National Information Infrastructure]] Dataset [[Society and Culture]] Location [[Sport England]]
+modified: 20150529211023196
+tags: [[National Information Infrastructure]] Dataset [[Society and Culture]] Location [[Sport England]] Other
+title: Spogo
 type: text/vnd.tiddlywiki
 
+<<<
+list of sites, activities, clubs and other sports data in England www.spogo.co.uk
+
+Release Notes:
+First set of data standards published. Activities against venues published. https://spogo.co.uk/developer-area Club data release as open data subject to discussions with National Governing Bodies. Other information to be released subject to the outcome of the current procurement exercise. The provision of API, static data extracts and encouraging use of data by SMEs/App developers (spogo alliance) forms part of the long term vision for spogo. More open data will be released on the publish date.
+<<<

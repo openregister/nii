@@ -1,7 +1,17 @@
 created: 20150529095124934
 link: http://data.gov.uk/dataset/active-places
-modified: 20150529101325144
-tags: [[National Information Infrastructure]] Dataset [[Society and Culture]] Location [[Sport England]] Other
+modified: 20150530142426823
+tags: [[National Information Infrastructure]] Dataset [[Society and Culture]] Location [[Sport England]] Register
 title: Active Places  (Sport England)
 type: text/vnd.tiddlywiki
 
+<<<
+List of sites and sports facilities for England
+
+Further details can be found on the B2B website www.activeplacespower.com
+
+Release Notes:
+Data available under in CSV format at https://spogo.co.uk/developer-area (under an 'Open Government Licence' for public sector information but amended by terms specific to Sport England)
+<<<
+
+//Unable to find the CSV//

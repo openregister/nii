@@ -1,5 +1,12 @@
-title: Daily Situation Reports
+created: 20150529210122948
 link: http://www.data.gov.uk/dataset/daily_situation_reports
-tags:  [[National Information Infrastructure]] Dataset [[Health and Social Care]] [[Performance and Delivery]] [[Department of Health]]
+modified: 20150529210141942
+tags: [[National Information Infrastructure]] Dataset [[Health and Social Care]] [[Performance and Delivery]] [[Department of Health]] Statistics
+title: Daily Situation Reports
 type: text/vnd.tiddlywiki
 
+<<<
+Fast track daily information on emergency pressures in the winter period (eg A&E diverts, beds closed due to norovirus, critical care capacity). Collected from acute NHS Trusts and NHS Foundation Trusts. This report is published weekly during the winter period.
+
+Designation: Official Statistics not designated as National Statistics
+<<<

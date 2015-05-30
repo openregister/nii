@@ -1,5 +1,12 @@
-title: UK Business: Activity, Size and Location
+created: 20150530080542912
 link: http://data.gov.uk/dataset/uk_business-activity_size_and_location
-tags:  [[National Information Infrastructure]] Dataset [[Companies and Business Development]] [[Performance and Delivery]] [[Office for National Statistics]]
+modified: 20150530080647163
+tags: [[National Information Infrastructure]] Dataset [[Companies and Business Development]] [[Performance and Delivery]] [[Office for National Statistics]] Register
+title: UK Business: Activity, Size and Location
 type: text/vnd.tiddlywiki
 
+<<<
+This publication is compiled from the Inter Departmental Business Register (IDBR) which contains information on VAT traders and PAYE employers in a statistical register. The publication contains tables on local units and enterprises by geography, industry, legal status and employment size band. Additional tables at enterprise level provide information by age of business and turnover size band. Source agency: Office for National Statistics Designation: National Statistics Language: English Alternative title: PA1003
+<<<
+
+Much of the data used to compile this publication should be held in a [[Register]].

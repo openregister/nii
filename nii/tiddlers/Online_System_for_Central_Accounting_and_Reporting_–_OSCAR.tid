@@ -1,7 +1,12 @@
 created: 20150528133403248
 link: http://data.gov.uk/dataset/oscar
-modified: 20150528133406313
-tags: [[National Information Infrastructure]] Dataset [[Government Accountability and Democracy]] Fiscal [[Her Majesty's Treasury]]
+modified: 20150529210448102
+tags: [[National Information Infrastructure]] Dataset [[Government Accountability and Democracy]] Fiscal [[Her Majesty's Treasury]] Register
 title: Online System for Central Accounting and Reporting – OSCAR
 type: text/vnd.tiddlywiki
 
+<<<
+Online System for Central Accounting and Reporting (OSCAR) - is a cross government project to replace the COINS public spending database with a robust, user-friendly system that will provide the Treasury with key management information and data for public reporting. The intention is that OSCAR will improve the quality of data the system holds by simplifying data structures, developing validation and strengthening control processes and accountabilities.
+
+We have now published the second set of in-year data recorded on the new OSCAR reporting System which covers the first six months of 2012-13 (April-September). This dataset, in addition to the previous COINS releases, provide the means to make public spending data more directly accessible and can be used with standard spreadsheet software.
+<<<

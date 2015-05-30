@@ -1,7 +1,12 @@
 created: 20150528132650283
 link: http://data.gov.uk/dataset/strategi
-modified: 20150528132653926
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]]
+modified: 20150529210708763
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
 title: Strategi®
 type: text/vnd.tiddlywiki
 
+<<<
+Strategi is detailed digital map data, ideal for applications requiring an overview of geographical information on England, Scotland and Wales. It is derived from the Ordnance Survey 1:250 000 scale topographic database and provides mapping for applications requiring a regional overview.
+
+Geographical features within Strategi are represented as vector (point and line) data, enabling you to link your business information to relevant features on the map for planning purposes and statistical analysis.
+<<<

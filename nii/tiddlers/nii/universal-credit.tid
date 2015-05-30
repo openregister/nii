@@ -1,7 +1,13 @@
 created: 20150529101404949
 link: http://www.data.gov.uk/dataset/universal-credit/feedback/view
-modified: 20150529160518366
+modified: 20150530075958064
 tags: [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Department for Work and Pensions]] Other
 title: Universal Credit
 type: text/vnd.tiddlywiki
 
+<<<
+Universal Credit is a benefit that has started to replace six existing benefits. This database contains details of customers claiming Universal Credit through Pathfinder sites. The information recorded includes Name, National Insurance Number, Address and payment information. You can finbd more information on https://www.gov.uk/universal-credit
+
+Release Notes:
+Not due to be released as this contains personal and sensitive data. We will review in the light of demand and prioritisation. We do now publish monthly Official Statistics on national implemented Universal Credit and you can find these on https://www.gov.uk/government/collections/universal-credit-statistics
+<<<

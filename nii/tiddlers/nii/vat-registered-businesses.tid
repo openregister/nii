@@ -1,5 +1,12 @@
-title: Vat registered businesses
+created: 20150529203243930
 link: http://data.gov.uk/dataset/vat_registered_businesses
-tags:  [[National Information Infrastructure]] Dataset [[Companies and Business Development]] Fiscal [[Department for Business, Innovation and Skills]]
+modified: 20150530145031669
+tags: [[National Information Infrastructure]] Dataset [[Companies and Business Development]] Fiscal [[Department for Business, Innovation and Skills]] Register
+title: Vat registered businesses
 type: text/vnd.tiddlywiki
 
+<<<
+Number of VAT-registered businesses recorded. "Enterprise Directorate: Business Start-ups and Closures: VAT Registrations and De-registrations"
+
+Please note that there will be no further releases of this publication. The Office for National Statistics has released a new National Statistics series on business births, deaths and survival rates named ‘Business Demography’. Business Demography is now the only official source of information on business start-ups and closures.
+<<<

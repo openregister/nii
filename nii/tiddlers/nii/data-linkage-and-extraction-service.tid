@@ -1,5 +1,16 @@
-title: Data linkage and extraction service
+created: 20150530080821857
 link: http://www.hscic.gov.uk/dles
-tags:  [[National Information Infrastructure]] Dataset [[Health and Social Care]] Operational [[NHS Information Centre for Health and Social Care]]
+modified: 20150530081622865
+tags: [[National Information Infrastructure]] Dataset [[Health and Social Care]] Operational [[NHS Information Centre for Health and Social Care]]
+title: Data linkage and extraction service
 type: text/vnd.tiddlywiki
 
+<div id="bodytext">
+				
+<<<
+The Health and Social Care Information Centre (HSCIC) is responsible for providing a trusted safe haven for storing and analysing the nation's health and care information. We also deliver the systems that enable data to be used to support an individual's care and better, more effective health and social care services for all our communities.
+
+There are very strict rules about what information the HSCIC can share with the NHS and other organisations and we are committed to ensuring that the public understands what happens to <a href="http://www.hscic.gov.uk/datasets">the information that we collect</a>. As part of this commitment we publish quarterly registers of the instances where the HSCIC has provided data under a data sharing agreement. 
+<<<
+
+A better URL is: http://www.hscic.gov.uk/datasets which cites a number of possible [[Registers|Register]] including [[National Specialty List/Treatment Function Codes|http://www.hscic.gov.uk/article/2118/National-Specialty-ListTreatment-Function-Codes]].

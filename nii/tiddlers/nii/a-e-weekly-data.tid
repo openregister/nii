@@ -1,7 +1,16 @@
 created: 20150529095304853
 link: http://www.data.gov.uk/dataset/ae_weekly_data_
-modified: 20150529101248128
+modified: 20150530142516404
 tags: [[National Information Infrastructure]] Dataset [[Health and Social Care]] [[Performance and Delivery]] [[NHS England]] Other
 title: A&E weekly data
 type: text/vnd.tiddlywiki
 
+<<<
+The total number of attendances in the week for all A&E types, including Minor Injury Units and Walk-in Centres, and of these, the number discharged, admitted or transferred within four hours of arrival.
+
+Also included are the number of admissions via A&E, and any waits of over four hours for admission following decision to admit.
+
+Data are shown at provider organisation level, from NHS Trusts, NHS Foundation Trusts, Primary Care Trusts and Independent Sector Organisations.
+
+Designation: Official Statistics not designated as National Statistics
+<<<
