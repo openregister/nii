@@ -20,7 +20,11 @@ There are <$count filter="[all[current]tagging[]tag[Dataset]]"/> [[datasets|Data
   <td><$checkbox tag="Statistics"/></td>
   <td><$checkbox tag="Other"/></td>
   <td><$link to={{!!title}}><$view field="title"/></$link></td>
-  <td><$list filter="[all[current]tags[]tag[Publisher]first[]]"><<tag>></$list></td>
+  <td><$list filter="[all[current]tags[]tag[Publisher]first[]]">
+    <$button class="tc-btn-invisible tc-tiddlylink tc-tag-label" style="background-color: #ffffff; color: #000000" to={{!!title}}>
+      <$transclude tiddler={{!!icon}}/> <$view field="title" format="text" />
+    </$button>
+   </$list></td>
 </tr>
 </$list>
 </table>
