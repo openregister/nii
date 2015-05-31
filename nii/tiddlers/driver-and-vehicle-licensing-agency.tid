@@ -1,9 +1,12 @@
 title: Driver and Vehicle Licensing Agency
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Department for Transport]] [[Executive agency]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 abbr: DVLA
 icon: org_crest
 link: https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency
 
+<<<
+We maintain registers of drivers and vehicles in Great Britain. This information helps us improve road safety, reduce vehicle related crime, support environmental initiatives and limit vehicle tax evasion.
+<<<
 {{ ||dataset-table }}

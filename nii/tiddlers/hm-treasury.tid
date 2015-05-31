@@ -1,0 +1,12 @@
+title: HM Treasury
+tags:  Publisher [[GOV.UK]] [[Ministerial department]]
+color: #ffffff
+type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/hm-treasury
+icon: org_crest
+
+<<<
+HM Treasury is the government’s economic and finance ministry, maintaining control over public spending, setting the direction of the UK’s economic policy and working to achieve strong and sustainable economic growth.
+<<<
+
+{{ ||dataset-table }}

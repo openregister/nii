@@ -1,9 +1,13 @@
 title: HM Passport Office
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Home Office]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/hm-passport-office
 abbr: HMPO
 icon: ho_crest
+
+<<<
+HM Passport Office is the sole issuer of UK passports and responsible for civil registration services through the General Register Office.
+<<<
 
 {{ ||dataset-table }}

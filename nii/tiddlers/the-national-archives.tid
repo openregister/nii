@@ -1,9 +1,14 @@
 title: The National Archives
-tags:  Publisher
+tags:  Publisher [[Non-ministerial department]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: http://www.nationalarchives.gov.uk/
+link: https://www.gov.uk/government/organisations/the-national-archives
+website: http://www.nationalarchives.gov.uk/
 icon: tna_logo
 abbr: TNA
+
+<<<
+The official archive and publisher for the UK government and for England and Wales. It is the guardian of some of our most iconic national documents, dating back over 1,000 years. National Archives is an executive agency as well as a non-ministerial department.
+<<<
 
 {{ ||dataset-table }}

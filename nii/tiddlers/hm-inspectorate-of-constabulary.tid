@@ -1,9 +1,14 @@
 title: HM Inspectorate of Constabulary
-tags:  Publisher
+tags:  Publisher [[Home Office]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: http://www.justiceinspectorates.gov.uk/
+website: http://www.justiceinspectorates.gov.uk/
+link: https://www.gov.uk/government/organisations/hm-inspectorate-of-constabulary
 abbr: HMIC
 icon: hmic_logo
+
+<<<
+Independently assesses police forces and policing, asking the questions that citizens would ask and publishing information to allow the public to compare the performance of their force against others.
+<<<
 
 {{ ||dataset-table }}

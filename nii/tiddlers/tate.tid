@@ -1,8 +1,13 @@
 title: Tate
-tags:  Publisher
+tags:  Publisher [[Executive non-departmental public body]] [[Department for Culture, Media & Sport]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/tate
+website: http://www.tate.org.uk/
 icon: tate_logo
+
+<<<
+The Tate is an institution that holds the national collection of British art from 1500 to the present day and international modern and contemporary art. The Tate has a network of four art museums: Tate Britain (London), Tate Liverpool, Tate St Ives, and Tate Modern, (London).
+<<<
 
 {{ ||dataset-table }}

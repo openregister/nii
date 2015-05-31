@@ -4,7 +4,10 @@ tags: Publisher [[Department for Business, Innovation & Skills]] [[Executive non
 title: The Natural Environment Research Council
 type: text/vnd.tiddlywiki
 website: http://www.bgs.ac.uk/
+link: https://www.gov.uk/government/organisations/natural-environment-research-council
 
 <<<
 The UK’s main agency for funding and managing research, training and knowledge exchange in atmospheric, Earth, biological, terrestrial and aquatic sciences.
 <<<
+
+{{ ||dataset-table }}

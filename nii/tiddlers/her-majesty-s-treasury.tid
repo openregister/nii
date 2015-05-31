@@ -1,8 +1,0 @@
-title: Her Majesty's Treasury
-tags:  Publisher [[GOV.UK]]
-color: #ffffff
-type: text/vnd.tiddlywiki
-link: https://www.gov.uk/government/organisations/hm-treasury
-icon: org_crest
-
-{{ ||dataset-table }}

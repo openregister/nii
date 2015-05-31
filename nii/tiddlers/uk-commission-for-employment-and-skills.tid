@@ -1,9 +1,13 @@
 title: UK Commission for Employment and Skills
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Executive non-departmental public body]] [[Department for Business Innovation & Skills]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/uk-commission-for-employment-and-skills
 abbr: UKCES
 icon: ukces_logo
+
+<<<
+A publicly funded, industry-led organisation that offers guidance on skills and employment issues in the UK.
+<<<
 
 {{ ||dataset-table }}

@@ -1,8 +1,13 @@
 title: Department of Health
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Ministerial department]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/department-of-health
 icon: org_crest
+abbr: DH
+
+<<<
+Helps people to live better for longer. We lead, shape and fund health and care in England, making sure people have the support, care and treatment they need, with the compassion, respect and dignity they deserve.
+<<<
 
 {{ ||dataset-table }}

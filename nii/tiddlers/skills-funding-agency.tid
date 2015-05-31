@@ -1,9 +1,13 @@
 title: Skills Funding Agency
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Executive agency]] [[Department for Business, Innovation & Skills]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/skills-funding-agency
 icon: org_crest
 abbr: SFA
+
+<<<
+We fund skills training for further education (FE) in England. We support over 1,000 colleges, private training organisations, and employers with more than £4 billion of funding each year.
+<<<
 
 {{ ||dataset-table }}

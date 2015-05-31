@@ -1,8 +1,14 @@
 title: Sport England
-tags:  Publisher
+abbr: SE
+tags:  Publisher [[Executive non-departmental public body]] [[Department for Culture, Media & Sport]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: https://www.sportengland.org/
+website: https://www.sportengland.org/
+link: https://www.gov.uk/government/organisations/sport-england
 icon: se_logo
+
+<<<
+Helps people and communities across the country get a sporting habit for life. It also protects existing sports provision and must be consulted on any planning applications that affect playing fields in England.
+<<<
 
 {{ ||dataset-table }}

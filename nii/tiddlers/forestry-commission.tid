@@ -1,9 +1,14 @@
 title: Forestry Commission
-tags:  Publisher
+tags:  Publisher [[Non-ministerial department]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: http://www.forestry.gov.uk/
+link: https://www.gov.uk/government/organisations/forestry-commission
+website: http://www.forestry.gov.uk/
 icon: fc_logo
 abbr: FC
+
+<<<
+Responsible for protecting and expanding Britain’s woods and forests and for managing nearly 1 million hectares of public forest.
+<<<
 
 {{ ||dataset-table }}

@@ -1,9 +1,13 @@
-title: Ministry of Defence
-tags:  Publisher [[GOV.UK]]
-color: #ffffff
-type: text/vnd.tiddlywiki
 abbr: MoD
-link: https://www.gov.uk/government/organisations/ministry-of-defence
+color: #ffffff
 icon: mod_crest
+link: https://www.gov.uk/government/organisations/ministry-of-defence
+tags: Publisher GOV.UK [[Ministerial department]]
+title: Ministry of Defence
+type: text/vnd.tiddlywiki
+
+<<<
+We protect the security, independence and interests of our country at home and abroad. We work with our allies and partners whenever possible. Our aim is to ensure that the armed forces have the training, equipment and support necessary for their work, and that we keep within budget.
+<<<
 
 {{ ||dataset-table }}

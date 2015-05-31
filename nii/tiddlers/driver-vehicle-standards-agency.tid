@@ -1,0 +1,13 @@
+title: Driver & Vehicle Standards Agency
+tags:  Publisher [[GOV.UK]] [[Executive agency]] [[Department for Transport]]
+color: #ffffff
+type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency
+abbr: DVSA
+icon: org_crest
+
+<<<
+We improve road safety in Great Britain by setting standards for driving and motorcycling, and making sure drivers, vehicle operators and MOT garages follow roadworthiness standards. We also provide a range of licensing, testing, education and enforcement services.
+<<<
+
+{{ ||dataset-table }}

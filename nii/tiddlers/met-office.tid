@@ -1,8 +1,13 @@
 title: Met Office
-tags:  Publisher
+tags:  Publisher [[Executive agency]] [[Business, Innovation & Skills]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: http://www.metoffice.gov.uk/
+link: https://www.gov.uk/government/organisations/met-office
+website: http://www.metoffice.gov.uk/
 icon: met_office_logo
+
+<<<
+The Met Office is the UK’s national weather service. It provides weather and climate-related services to the Armed Forces, government departments, the public, civil aviation, shipping, industry, agriculture and commerce.
+<<<
 
 {{ ||dataset-table }}

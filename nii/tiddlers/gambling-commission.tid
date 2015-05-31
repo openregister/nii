@@ -1,7 +1,13 @@
 title: Gambling Commission
-tags:  Publisher
+tags:  Publisher [[Executive non-departmental public body]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: http://www.gamblingcommission.gov.uk/
+link: https://www.gov.uk/government/organisations/gambling-commission
+website: http://www.gamblingcommission.gov.uk/
+abbr: GC
+
+<<<
+Regulates arcades, betting, bingo, casinos, gaming machine providers, gambling software providers, lottery operators and external lottery managers and remote gambling (online and by phone) that uses British-based equipment.
+<<<
 
 {{ ||dataset-table }}

@@ -1,9 +1,11 @@
 title: Vehicle and Operator Services Agency
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Defunct]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency
+link: https://www.gov.uk/government/organisations/vehicle-and-operator-services-agency
 abbr: VOSA
 icon: org_crest
+
+// Replaced by the [[Driver & Vehicle Standards Agency]] //
 
 {{ ||dataset-table }}

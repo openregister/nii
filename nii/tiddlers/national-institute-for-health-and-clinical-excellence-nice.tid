@@ -1,9 +1,14 @@
-title: National Institute for Health and Clinical Excellence (NICE)
-tags:  Publisher
+title: National Institute for Health and Clinical Excellence
+tags:  Publisher [[Executive non-departmental public body]] [[Department of Health]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: https://www.nice.org.uk/
+website: https://www.nice.org.uk/
+link: https://www.gov.uk/government/organisations/national-institute-for-clinical-excellence
 icon: nice_logo
 abbr: NICE
+
+<<<
+The National Institute for Health and Care Excellence (NICE) provides national guidance and advice to improve health and social care.
+<<<
 
 {{ ||dataset-table }}

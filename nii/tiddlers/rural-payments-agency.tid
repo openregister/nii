@@ -1,9 +1,13 @@
 title: Rural Payments Agency
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Executive agency]] [[Department for Environment, Food & Rural Affairs]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/rural-payments-agency
 icon: org_crest
 abbr: RPA
+
+<<<
+We pay out over £2 billion each year to support a thriving farming and food sector.
+<<<
 
 {{ ||dataset-table }}

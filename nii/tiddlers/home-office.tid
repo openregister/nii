@@ -1,8 +1,11 @@
 title: Home Office
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Ministerial department]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 icon: ho_crest
 link: https://www.gov.uk/government/organisations/home-office
 
+<<<
+Leads on immigration and passports, drugs policy, crime policy and counter-terrorism and works to ensure visible, responsive and accountable policing in the UK.
+<<<
 {{ ||dataset-table }}

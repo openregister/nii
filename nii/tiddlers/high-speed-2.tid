@@ -1,9 +1,13 @@
 title: High Speed 2
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Executive non-departmental public body]] [[Department for Transport]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/high-speed-two-limited
-abbr: hs2
+abbr: HS2
 icon: hs2_logo
+
+<<<
+The company responsible for developing and promoting the UK’s new high speed rail network. It is funded by grant-in-aid from the government.
+<<<
 
 {{ ||dataset-table }}

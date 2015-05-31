@@ -1,9 +1,16 @@
 title: Natural History Museum
-tags:  Publisher
+tags:  Publisher Museum [[Department for Culture, Media & Sport]] [[Executive non-departmental public body]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: http://www.nhm.ac.uk/
+link: https://www.gov.uk/government/organisations/natural-history-museum
+website: http://www.nhm.ac.uk/
 icon: nhm_logo
 abbr: NHM
+
+<<<
+The Natural History Museum (NHM) is home to life and earth science specimens comprising some 70 million items within 5 main collections: Botany, Entomology, Mineralogy, Palaeontology and Zoology. The museum is a world-renowned centre of research, specialising in taxonomy, identification and conservation. Given the age of the institution, many of the collections have great historical as well as scientific value, such as specimens collected by Darwin.
+
+The Natural History Museum Library contains extensive books, journals, manuscripts, and artwork collections linked to the work and research of the scientific departments.
+<<<
 
 {{ ||dataset-table }}

@@ -1,9 +1,13 @@
 title: The Disclosure and Barring Service
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Executive non-departmental public body]] [[Home Office]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/disclosure-and-barring-service
 icon: org_crest
 abbr: DBS
+
+<<<
+Helps employers make safer recruitment decisions and prevent unsuitable people from working with vulnerable groups, including children. It replaces the Criminal Records Bureau (CRB) and Independent Safeguarding Authority (ISA).
+<<<
 
 {{ ||dataset-table }}

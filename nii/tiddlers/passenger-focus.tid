@@ -1,9 +1,13 @@
 title: Passenger Focus
-tags:  Publisher
+tags:  Publisher [[Executive non-departmental public body]] [[Department for Transport]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: http://www.transportfocus.org.uk/
+link: https://www.gov.uk/government/organisations/transport-focus
+website: http://www.transportfocus.org.uk/
 icon: tf_logo
 
-// Renamed as transportfocus //
+<<<
+Transport Focus, formerly Passenger Focus, is the independent watchdog representing the interests of Britain’s rail passengers, bus and tram passengers in England (outside of London) and passengers on scheduled domestic coach services in England. It also represents users of England’s major roads (the ‘strategic road network’). Transport Focus offers advice to the public and takes up passengers’ complaints that train companies have failed to resolve. It aims to secure improvements, influence decisions and get the best deal for passengers and road users with an emphasis on evidence-based campaigning and research.
+<<<
+
 {{ ||dataset-table }}

@@ -1,9 +1,16 @@
 title: English Heritage
-tags:  Publisher
+tags:  Publisher [[Department for Culture, Media & Sport]] [[Executive non-departmental public body]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: http://www.english-heritage.org.uk/
+link: https://www.gov.uk/government/organisations/english-heritage
+website: http://www.english-heritage.org.uk/
 icon: eh_logo
 abbr: EH
+
+<<<
+English Heritage (EH) preserves aspects of the built environment, complementing the work of Natural England which protects the natural environment. It also advises the government on policy and in cases such as registering listed buildings and scheduled ancient monuments.
+
+''English Heritage'' has now separated into two organisations. If you are looking for information on listing, planning, grants or heritage research and advice, please visit [[Historic England]].
+<<<
 
 {{ ||dataset-table }}

@@ -1,9 +1,13 @@
 title: Office for Standards in Education, Children's Services and Skills
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Non-ministerial department]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/ofsted
 abbr: OFSTED
 icon: ofsted_logo
+
+<<<
+Ofsted is the Office for Standards in Education, Children’s Services and Skills. We inspect and regulate services that care for children and young people, and services providing education and skills for learners of all ages.
+<<<
 
 {{ ||dataset-table }}

@@ -1,9 +1,14 @@
 title: Victoria & Albert Museum
-tags:  Publisher Museum
+tags:  Publisher Museum [[Department for Culture, Media & Sport]] [[Executive non-departmental public body]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/victoria-and-albert-museum
+website: http://www.vam.ac.uk
 icon: vam_logo
 abbr: VAM
+
+<<<
+The Victoria and Albert Museum (V&A / VAM) is the world’s largest museum of decorative arts and design, housing a permanent collection of over 4.5 million objects. Named after Queen Victoria and Prince Albert, it was founded in 1852, and has since grown to cover 12.5 acres and 145 galleries. Its collection spans 5,000 years of art, from ancient times to the present day, in virtually every medium, from the cultures of Europe, North America, Asia and North Africa.
+<<<
 
 {{ ||dataset-table }}

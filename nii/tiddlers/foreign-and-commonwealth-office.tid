@@ -1,9 +1,13 @@
 title: Foreign and Commonwealth Office
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Ministerial department]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/foreign-commonwealth-office
 abbr: FCO
 icon: org_crest
+
+<<<
+Promotes the United Kingdom's interests overseas, supporting our citizens and businesses around the globe.
+<<<
 
 {{ ||dataset-table }}

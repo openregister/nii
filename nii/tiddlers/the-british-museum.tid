@@ -1,8 +1,13 @@
 title: The British Museum
-tags:  Publisher
+tags:  Publisher Museum [[Department for Culture, Media & Sport]] [[Executive non-departmental public body]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/british-museum
+website: http://www.britishmuseum.org
 abbr: BM
+
+<<<
+The British Museum (BM) was the first national public museum in the world. Its permanent collection, over 8 million works, is amongst the largest and most comprehensive in existence and originates from every continent, illustrating and documenting the story of human culture from its beginnings to the present.
+<<<
 
 {{ ||dataset-table }}

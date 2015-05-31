@@ -1,9 +1,10 @@
 title: National Measurement Office
-tags:  Publisher
+tags:  Publisher [[Renamed]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/national-measurement-office
 icon: bis_crest
 
-// Now called National Measurement and Regulation Office //
+// Now called [[National Measurement and Regulation Office]] //
+
 {{ ||dataset-table }}

@@ -1,9 +1,13 @@
 title: Land Registry
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Non-ministerial department]] [[Department for Business Innovation & Skills]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/land-registry
 icon: lr_logo
 abbr: LR
+
+<<<
+Registers the ownership of land and property in England and Wales.
+<<<
 
 {{ ||dataset-table }}

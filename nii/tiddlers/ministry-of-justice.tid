@@ -1,8 +1,12 @@
 title: Ministry of Justice
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Ministerial department]]
 color: #ffffff
 type: text/vnd.tiddlywiki
 link: https://www.gov.uk/government/organisations/ministry-of-justice
 icon: org_crest
+
+<<<
+We work to protect the public and reduce reoffending, and to provide a more effective, transparent and responsive criminal justice system for victims and the public.
+<<<
 
 {{ ||dataset-table }}

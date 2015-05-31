@@ -1,9 +1,14 @@
 title: Office of Communications
-tags:  Publisher
+tags:  Publisher [[Department for Culture, Media & Sport]] [[Statutory corporation]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: http://www.ofcom.org.uk/
+link: https://www.gov.uk/government/organisations/ofcom
+website: http://www.ofcom.org.uk/
 abbr: Ofcom
 icon: ofcom_logo
+
+<<<
+The regulator and competition authority for the UK communications industries. It regulates the TV and radio sectors, fixed line telecoms, mobiles, postal services, plus the airwaves over which wireless devices operate.
+<<<
 
 {{ ||dataset-table }}

@@ -1,9 +1,11 @@
 title: Highways Agency
-tags:  Publisher [[GOV.UK]]
+tags:  Publisher [[GOV.UK]] [[Defunct]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: https://www.gov.uk/government/organisations/highways-england
+link: https://www.gov.uk/government/organisations/highways-agency
 icon: ha_logo
 abbr: HA
+
+The Highways Agency was replaced by [[Highways England]] in April 2015
 
 {{ ||dataset-table }}

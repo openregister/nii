@@ -1,8 +1,15 @@
 title: NHS England
-tags:  Publisher
+tags:  Publisher [[Executive non-departmental public body]] [[Department of Health]]
 color: #ffffff
 type: text/vnd.tiddlywiki
-link: http://www.england.nhs.uk/
+link: https://www.gov.uk/government/organisations/nhs-commissioning-board
+website: http://www.england.nhs.uk/
 icon: nhs_logo
+
+<<<
+NHS England authorises the new clinical commissioning groups, which are the drivers of the new, clinically-led commissioning system introduced by the Health and Social Care Act.
+
+Prior to 1 April 2013, NHS England was known as the NHS Commissioning Board.
+<<<
 
 {{ ||dataset-table }}
