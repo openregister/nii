@@ -1,6 +1,15 @@
-title: Department for Business, Innovation and Skills
-tags:  Publisher
-color: #000000
+color: #ffffff
+created: 20150530203609542
+icon: bis_crest
+modified: 20150530203733326
+tags: Publisher [[GOV.UK]] [[Ministerial department]]
+title: Department for Business, Innovation & Skills
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/department-for-business-innovation-skills
+abbr: BIS
 
-{{{ [tag[Department for Business, Innovation and Skills]] }}}
+<<<
+The department for economic growth. The department invests in skills and education to promote trade, boost innovation and help people to start and grow a business. BIS also protects consumers and reduces the impact of regulation.
+<<<
+
+{{ ||dataset-table }}

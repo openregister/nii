@@ -1,6 +1,9 @@
 title: The National Archives
 tags:  Publisher
-color: #000000
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: http://www.nationalarchives.gov.uk/
+icon: tna_logo
+abbr: TNA
 
-{{{ [tag[The National Archives]] }}}
+{{ ||dataset-table }}

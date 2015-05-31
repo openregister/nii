@@ -1,6 +1,9 @@
 title: Driver and Vehicle Licensing Agency
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+abbr: DVLA
+icon: org_crest
+link: https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency
 
-{{{ [tag[Driver and Vehicle Licensing Agency]] }}}
+{{ ||dataset-table }}

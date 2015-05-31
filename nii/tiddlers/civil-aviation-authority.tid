@@ -1,6 +1,14 @@
 title: Civil Aviation Authority
-tags:  Publisher
-color: #000000
+tags:  Publisher [[Department for Transport]] [[Public corporation]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/civil-aviation-authority
+website: http://www.caa.co.uk/
+icon: caa_logo
+abbr: CAA
 
-{{{ [tag[Civil Aviation Authority]] }}}
+<<<
+Responsible for the regulation of aviation safety in the UK, determining policy for the use of airspace, the economic regulation of Heathrow, Gatwick and Stansted airports, the licensing and financial fitness of airlines and the management of the ATOL financial protection scheme for holidaymakers.
+<<<
+
+{{ ||dataset-table }}

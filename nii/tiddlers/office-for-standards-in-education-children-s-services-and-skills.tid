@@ -1,6 +1,9 @@
 title: Office for Standards in Education, Children's Services and Skills
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/ofsted
+abbr: OFSTED
+icon: ofsted_logo
 
-{{{ [tag[Office for Standards in Education, Children's Services and Skills]] }}}
+{{ ||dataset-table }}

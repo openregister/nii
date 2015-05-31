@@ -1,6 +1,8 @@
 title: Tate
 tags:  Publisher
-color: #000000
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/tate
+icon: tate_logo
 
-{{{ [tag[Tate]] }}}
+{{ ||dataset-table }}

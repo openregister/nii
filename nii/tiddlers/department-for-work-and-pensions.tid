@@ -1,6 +1,13 @@
-title: Department for Work and Pensions
-tags:  Publisher
-color: #000000
+title: Department for Work & Pensions
+tags:  Publisher [[GOV.UK]] [[Ministerial department]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+abbr: DWP
+icon: org_crest
+link: https://www.gov.uk/government/organisations/department-for-work-pensions
 
-{{{ [tag[Department for Work and Pensions]] }}}
+<<<
+Responsible for welfare, pensions and child maintenance policy. As the UK’s biggest public service department it administers the State Pension and a range of working age, disability and ill health benefits to over 22 million claimants and customers.
+<<<
+
+{{ ||dataset-table }}

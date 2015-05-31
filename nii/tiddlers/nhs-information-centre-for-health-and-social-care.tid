@@ -1,6 +1,16 @@
 title: NHS Information Centre for Health and Social Care
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]] [[Department of Health]] [[Executive non-departmental public body]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/health-and-social-care-information-centre
+website: http://www.hscic.gov.uk/
+icon: hscic_logo
+abbr: HSCIC
 
-{{{ [tag[NHS Information Centre for Health and Social Care]] }}}
+// Renamed to Health and Social Care Information Centre, now a part of the [[Department of Health]]. //
+
+<<<
+The national provider of information, data and IT systems for commissioners, analysts and clinicians in health and social care.
+<<<
+
+{{ ||dataset-table }}

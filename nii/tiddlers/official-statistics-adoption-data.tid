@@ -1,7 +1,13 @@
 created: 20150529210314354
 link: http://www.data.gov.uk/dataset/official-statistics-adoption-data
-modified: 20150529210313286
+modified: 20150531095931409
 tags: [[National Information Infrastructure]] Dataset Education [[Performance and Delivery]] [[Office for Standards in Education, Children's Services and Skills]] Statistics
 title: Official Statistics: Adoption data
 type: text/vnd.tiddlywiki
 
+<<<
+These datasets contain the latest official statistics about adoption in England and are published on the Ofsted website. Each release includes commentary, charts and tables and the underlying data. They are used to inform wider analysis, policy development, operational priorities, evaluations and responses to general enquiries, FOI requests and parliamentary enquiries.
+
+Release Notes:
+These datasets are released annually on the Ofsted Website.
+<<<

@@ -1,7 +1,10 @@
 created: 20150529105215143
 link: http://www.data.gov.uk/dataset/air_quality_management_areas
 modified: 20150529105214060
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Department for Environment, Food and Rural Affairs]] Register
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Department for Environment, Food & Rural Affairs]] Register
 title: Air Quality Management Areas
 type: text/vnd.tiddlywiki
 
+<<<
+This dataset provides information about Air Quality Management Areas, which are declared by a local authority if it is likely that the area will exceed one or more of the air quality objectives set for PM10, Nitrogen Dioxide or Sulphur Dioxide and contain information about the geographic location, name, corresponding local authority of the AQMA, along with the pollutants which are being managed, and a link to view a detailed map of the AQMA.
+<<<

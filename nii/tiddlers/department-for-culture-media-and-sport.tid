@@ -1,6 +1,13 @@
 title: Department for Culture, Media and Sport
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]] [[Ministerial department]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/department-for-culture-media-sport
+icon: org_crest
+abbr: DCMS
 
-{{{ [tag[Department for Culture, Media and Sport]] }}}
+<<<
+Here to help make Britain the world’s most creative and exciting place to live, visit and do business. We protect and promote our cultural and artistic heritage and help businesses and communities to grow by investing in innovation and highlighting Britain as a fantastic place to visit. Alongside this, we protect our deeply held beliefs in freedom and equality. We help to give the UK a unique advantage in the global race for economic success.
+<<<
+
+{{ ||dataset-table }}

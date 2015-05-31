@@ -1,6 +1,8 @@
 title: Office for National Statistics
 tags:  Publisher
-color: #000000
+color: #ffffff
 type: text/vnd.tiddlywiki
+icon: ons_logo
+link: http://www.ons.gov.uk/
 
-{{{ [tag[Office for National Statistics]] }}}
+{{ ||dataset-table }}

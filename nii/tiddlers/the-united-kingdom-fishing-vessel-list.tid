@@ -1,7 +1,17 @@
 created: 20150529211345694
 link: http://data.gov.uk/data/search?q=vessels&publisher=marine-management-organisation&unpublished=true
 modified: 20150529211344617
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Department for Environment, Food and Rural Affairs]] Register
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Department for Environment, Food & Rural Affairs]] Register
 title: The United Kingdom fishing Vessel List
 type: text/vnd.tiddlywiki
 
+// Data.gov.uk link is a search returning 29 datasets with similar titles and descriptions to //
+
+<<<
+[[Fish Landings to United Kingdom Ports (by Vessel Length) 2010|http://data.gov.uk/dataset/fish-landings-to-united-kingdom-ports-by-vessel-length-2010]]
+
+GIS (Geographic Information System) point dataset on ports from the Fisheries Activity Database (FAD) with attribution related to landings, weight and licenced vessels
+
+Release Notes:
+This dataset is in scope of Infrastructure for Spatial Information in the European Community (INSPIRE) and it is at an advanced stage of preparation for publication in line with the INSPIRE regulations.
+<<<

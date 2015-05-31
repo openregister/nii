@@ -1,6 +1,13 @@
 title: Department for Communities and Local Government
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]] [[Ministerial department]]
+color: #ffffff
+icon: org_crest
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/department-for-communities-and-local-government
+abbr: DCLG
 
-{{{ [tag[Department for Communities and Local Government]] }}}
+<<<
+The Department for Communities and Local Government's job is to create great places to live and work, and to give more power to local people to shape what happens in their area.
+<<<
+
+{{ ||dataset-table }}

@@ -1,6 +1,8 @@
 title: NHS England
 tags:  Publisher
-color: #000000
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: http://www.england.nhs.uk/
+icon: nhs_logo
 
-{{{ [tag[NHS England]] }}}
+{{ ||dataset-table }}

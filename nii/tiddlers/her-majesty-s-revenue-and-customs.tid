@@ -1,6 +1,9 @@
 title: Her Majesty's Revenue and Customs
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/hm-revenue-customs
+icon: hmrc_crest
+abbr: HMRC
 
-{{{ [tag[Her Majesty's Revenue and Customs]] }}}
+{{ ||dataset-table }}

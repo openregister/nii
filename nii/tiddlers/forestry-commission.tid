@@ -1,6 +1,9 @@
 title: Forestry Commission
 tags:  Publisher
-color: #000000
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: http://www.forestry.gov.uk/
+icon: fc_logo
+abbr: FC
 
-{{{ [tag[Forestry Commission]] }}}
+{{ ||dataset-table }}

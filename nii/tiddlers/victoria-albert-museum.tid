@@ -1,6 +1,9 @@
 title: Victoria & Albert Museum
-tags:  Publisher
-color: #000000
+tags:  Publisher Museum
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/victoria-and-albert-museum
+icon: vam_logo
+abbr: VAM
 
-{{{ [tag[Victoria & Albert Museum]] }}}
+{{ ||dataset-table }}

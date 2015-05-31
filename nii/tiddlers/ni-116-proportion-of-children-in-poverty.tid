@@ -1,5 +1,8 @@
 title: NI 116 Proportion of children in poverty
 link: http://www.data.gov.uk/dataset/ni_116_proportion_of_children_in_poverty
-tags:  [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Department for Work and Pensions]]
+tags:  [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Department for Work & Pensions]] [[Statistics]]
 type: text/vnd.tiddlywiki
 
+<<<
+Proportion of dependent children in a Local Authority who live in households whose equivalised income is below 60% of the contemporary national median. Source: Department for Work and Pensions (DWP) Publisher: HM Revenue and Customs Geographies: Lower Layer Super Output Area (LSOA), Ward, Local Authority District (LAD), County/Unitary Authority, Government Office Region (GOR), National, Parliamentary Constituency Geographic coverage: England Time coverage: 2006, 2007
+<<<

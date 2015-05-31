@@ -1,5 +1,8 @@
 title: Housing Benefit/Council Tax Benefit Claimants at small area level
 link: http://www.data.gov.uk/dataset/housing_benefit-council_tax_benefit_claimants_at_small_area_level
-tags:  [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Department for Work and Pensions]]
+tags:  [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Department for Work & Pensions]] Register
 type: text/vnd.tiddlywiki
 
+<<<
+Housing Benefit can be claimed by a person if they are liable to pay rent and if they are on a low income. Council Tax Benefit is designed to help people on low-income to pay their Council Tax. The data are broken down by gender, age and marital status.
+<<<

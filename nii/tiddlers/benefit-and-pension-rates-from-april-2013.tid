@@ -1,7 +1,10 @@
 created: 20150529105323647
 link: http://www.data.gov.uk/dataset/benefit-and-pension-rates-from-april-2013/feedback/view
 modified: 20150529105322551
-tags: [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Department for Work and Pensions]] Register
+tags: [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Department for Work & Pensions]] Register
 title: Benefit and Pension rates from April 2013
 type: text/vnd.tiddlywiki
 
+<<<
+This publication lists the benefit and pension rates from April 2013 in CSV format. It also includes some rules on extra amounts that can be payable for dependents, and on how income and savings can affect entitlement to benefit.Most rates change from the first Monday of the new tax year, but some may change from an earlier or later date in April.
+<<<

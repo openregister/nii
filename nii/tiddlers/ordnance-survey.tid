@@ -1,8 +1,10 @@
-color: #000000
+color: #ffffff
 created: 20150530193555152
 modified: 20150530193557597
 tags: Publisher
 title: Ordnance Survey
 type: text/vnd.tiddlywiki
+icon: os_logo
+abbr: OS
 
 {{ ||dataset-table }}

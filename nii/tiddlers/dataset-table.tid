@@ -1,10 +1,10 @@
 created: 20150530183441849
-modified: 20150530194551173
+modified: 20150531123337434
 tags: 
 title: dataset-table
 type: text/vnd.tiddlywiki
 
-There are <$count filter="[all[current]tagging[]]"/> [[datasets|Dataset]] tagged with ''{{!!title}}''. 
+There are <$count filter="[all[current]tagging[]tag[Dataset]]"/> [[datasets|Dataset]] tagged with ''{{!!title}}''. 
 
 <table>
 <tr style="height:3em;">
@@ -14,7 +14,7 @@ There are <$count filter="[all[current]tagging[]]"/> [[datasets|Dataset]] tagged
   <td><<tag Dataset>></td>
   <td><<tag Publisher>></td>
 </tr>
-<$list filter="[all[current]tagging[]sort[]]">
+<$list filter="[all[current]tagging[]tag[Dataset]sort[]]">
 <tr>
   <td><$checkbox tag="Register"/></td>
   <td><$checkbox tag="Statistics"/></td>

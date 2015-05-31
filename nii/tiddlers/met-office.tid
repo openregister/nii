@@ -1,6 +1,8 @@
 title: Met Office
 tags:  Publisher
-color: #000000
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: http://www.metoffice.gov.uk/
+icon: met_office_logo
 
-{{{ [tag[Met Office]] }}}
+{{ ||dataset-table }}

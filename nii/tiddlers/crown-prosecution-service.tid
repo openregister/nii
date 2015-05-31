@@ -1,6 +1,15 @@
+color: #ffffff
+icon: cps_logo
+link: https://www.gov.uk/government/organisations/crown-prosecution-service
+website: http://www.cps.gov.uk/
+logo: cps_log
+tags: Publisher [[Non-ministerial department]]
 title: Crown Prosecution Service
-tags:  Publisher
-color: #000000
 type: text/vnd.tiddlywiki
+abbr: CPS
 
-{{{ [tag[Crown Prosecution Service]] }}}
+<<<
+The CPS is responsible for prosecuting criminal cases investigated by the police and other investigative authorities, in England and Wales.
+<<<
+
+{{ ||dataset-table }}

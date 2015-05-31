@@ -1,6 +1,7 @@
 title: Gambling Commission
 tags:  Publisher
-color: #000000
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: http://www.gamblingcommission.gov.uk/
 
-{{{ [tag[Gambling Commission]] }}}
+{{ ||dataset-table }}

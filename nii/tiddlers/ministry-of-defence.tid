@@ -1,6 +1,9 @@
 title: Ministry of Defence
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+abbr: MoD
+link: https://www.gov.uk/government/organisations/ministry-of-defence
+icon: mod_crest
 
-{{{ [tag[Ministry of Defence]] }}}
+{{ ||dataset-table }}

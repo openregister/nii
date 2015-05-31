@@ -1,5 +1,10 @@
-title: National Forest Estate Sub-compartment Database
+created: 20150530225645206
 link: http://www.data.gov.uk/dataset/national-forest-estate-subcompartment-database
-tags:  [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Forestry Commission]]
+modified: 20150530225720671
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Forestry Commission]] Register
+title: National Forest Estate Sub-compartment Database
 type: text/vnd.tiddlywiki
 
+<<<
+Spatial dataset. The Subcompartment Database provides details of extent, structure, composition, health, status, use and management of all Forestry Commission land holdings.
+<<<

@@ -1,6 +1,13 @@
-title: Department of Energy and Climate Change
-tags:  Publisher
-color: #000000
+title: Department of Energy & Climate Change
+tags:  Publisher [[GOV.UK]] [[Ministerial department]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+abbr: DECC
+link: https://www.gov.uk/government/organisations/department-of-energy-climate-change
+icon: org_crest
 
-{{{ [tag[Department of Energy and Climate Change]] }}}
+<<<
+Works to make sure the UK has secure, clean, affordable energy supplies and promote international action to mitigate climate change.
+<<<
+
+{{ ||dataset-table }}

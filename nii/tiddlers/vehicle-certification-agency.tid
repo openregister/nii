@@ -1,6 +1,9 @@
 title: Vehicle Certification Agency
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+icon: org_crest
+link: https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency
 
-{{{ [tag[Vehicle Certification Agency]] }}}
+// Renamed to Driver & Vehicle Licensing Agency //
+{{ ||dataset-table }}

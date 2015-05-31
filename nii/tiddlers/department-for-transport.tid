@@ -1,6 +1,13 @@
 title: Department for Transport
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]] [[Ministerial department]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/department-for-transport
+icon: org_crest
+abbr: DfT
 
-{{{ [tag[Department for Transport]] }}}
+<<<
+Supports the transport network that helps the UK’s businesses and gets people and goods travelling around the country. Plan and invests in transport infrastructure to keep the UK on the move.
+<<<
+
+{{ ||dataset-table }}

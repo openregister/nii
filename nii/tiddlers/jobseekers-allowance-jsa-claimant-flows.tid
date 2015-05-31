@@ -1,5 +1,8 @@
 title: Jobseekers Allowance (JSA) claimant flows
 link: http://www.data.gov.uk/dataset/jobseekers_allowance_jsa_claimant_flows
-tags:  [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Department for Work and Pensions]]
+tags:  [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Department for Work & Pensions]] Statistics
 type: text/vnd.tiddlywiki
 
+<<<
+Monthly count of claimants who either a) were claiming Job Seekers allowance (stocks) on the count date, b) ended a claim (off-flows) during the previous accounting month or c) started a new claim (on-flows) during the previous accounting month.
+<<<

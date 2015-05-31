@@ -1,6 +1,9 @@
 title: UK Commission for Employment and Skills
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/uk-commission-for-employment-and-skills
+abbr: UKCES
+icon: ukces_logo
 
-{{{ [tag[UK Commission for Employment and Skills]] }}}
+{{ ||dataset-table }}

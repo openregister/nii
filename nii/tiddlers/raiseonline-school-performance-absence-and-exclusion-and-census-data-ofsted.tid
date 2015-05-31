@@ -1,5 +1,14 @@
-title: RAISEonline school performance, absence and exclusion and census data (Ofsted)
+created: 20150531095813061
 link: http://www.data.gov.uk/dataset/raiseonline-school-performance-absence-and-exclusion-and-census-data
-tags:  [[National Information Infrastructure]] Dataset Education [[Performance and Delivery]] [[Office for Standards in Education, Children's Services and Skills]]
+modified: 20150531095845679
+tags: [[National Information Infrastructure]] Dataset Education [[Performance and Delivery]] [[Office for Standards in Education, Children's Services and Skills]] Register
+title: RAISEonline school performance, absence and exclusion and census data (Ofsted)
 type: text/vnd.tiddlywiki
 
+<<<
+Information for this dataset is sourced from the Department for Education. Data is held for primary, secondary and special schools in England. Data is calculated at different aggregation levels: school, local authority and national.
+The school performance data consists of exam, test and teacher assessment data. Along with attainment measures these are used to calculated progress measures.
+
+Release Notes:
+These datasets are made available to schools, local authorities and Ofsted inspectors through the RAISEonline websites. These datasets contain information defined as personal and sensitive personal data by the Data Protection Act 1998.
+<<<

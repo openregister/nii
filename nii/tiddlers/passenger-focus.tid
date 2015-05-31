@@ -1,6 +1,9 @@
 title: Passenger Focus
 tags:  Publisher
-color: #000000
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: http://www.transportfocus.org.uk/
+icon: tf_logo
 
-{{{ [tag[Passenger Focus]] }}}
+// Renamed as transportfocus //
+{{ ||dataset-table }}

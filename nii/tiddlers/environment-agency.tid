@@ -1,6 +1,9 @@
 title: Environment Agency
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+abbr: EA
+icon: ea_logo
+link: https://www.gov.uk/government/organisations/environment-agency
 
-{{{ [tag[Environment Agency]] }}}
+{{ ||dataset-table }}

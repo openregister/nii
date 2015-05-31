@@ -1,6 +1,13 @@
 title: Department for Education
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]] [[Ministerial department]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+icon: org_crest
+link: https://www.gov.uk/government/organisations/department-for-education
+abbr: DfE
 
-{{{ [tag[Department for Education]] }}}
+<<<
+The Department for Education is responsible for education and children’s services in England. We work to achieve a highly educated society in which opportunity is equal for children and young people, no matter what their background or family circumstances.
+<<<
+
+{{ ||dataset-table }}

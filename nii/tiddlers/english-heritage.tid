@@ -1,6 +1,9 @@
 title: English Heritage
 tags:  Publisher
-color: #000000
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: http://www.english-heritage.org.uk/
+icon: eh_logo
+abbr: EH
 
-{{{ [tag[English Heritage]] }}}
+{{ ||dataset-table }}

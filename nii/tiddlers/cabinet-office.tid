@@ -1,6 +1,13 @@
 title: Cabinet Office
-tags:  Publisher
-color: #000000
+tags:  Publisher [[Ministerial department]] [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/cabinet-office
+icon: org_crest
+abbr: CO
 
-{{{ [tag[Cabinet Office]] }}}
+<<<
+Supports the Prime Minister to ensure the effective running of government. Also the corporate headquarters for government, in partnership with HM Treasury, taking the lead in certain critical policy areas.
+<<<
+
+{{ ||dataset-table }}

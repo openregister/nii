@@ -1,6 +1,8 @@
 title: Home Office
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+icon: ho_crest
+link: https://www.gov.uk/government/organisations/home-office
 
-{{{ [tag[Home Office]] }}}
+{{ ||dataset-table }}

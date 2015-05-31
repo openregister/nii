@@ -1,6 +1,9 @@
 title: Natural History Museum
 tags:  Publisher
-color: #000000
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: http://www.nhm.ac.uk/
+icon: nhm_logo
+abbr: NHM
 
-{{{ [tag[Natural History Museum]] }}}
+{{ ||dataset-table }}

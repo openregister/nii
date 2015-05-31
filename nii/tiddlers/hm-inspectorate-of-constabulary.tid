@@ -1,6 +1,9 @@
 title: HM Inspectorate of Constabulary
 tags:  Publisher
-color: #000000
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: http://www.justiceinspectorates.gov.uk/
+abbr: HMIC
+icon: hmic_logo
 
-{{{ [tag[HM Inspectorate of Constabulary]] }}}
+{{ ||dataset-table }}

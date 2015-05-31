@@ -1,6 +1,9 @@
 title: Land Registry
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/land-registry
+icon: lr_logo
+abbr: LR
 
-{{{ [tag[Land Registry]] }}}
+{{ ||dataset-table }}

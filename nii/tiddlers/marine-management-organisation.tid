@@ -1,6 +1,8 @@
 title: Marine Management Organisation
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/marine-management-organisation
+icon: org_crest
 
-{{{ [tag[Marine Management Organisation]] }}}
+{{ ||dataset-table }}

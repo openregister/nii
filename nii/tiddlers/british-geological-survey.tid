@@ -1,6 +1,17 @@
+abbr: BGS
+color: #ffffff
+created: 20150531123446947
+icon: bgs_logo
+modified: 20150531123446947
+tags: Publisher [[Natural Environment Research Council]] [[Executive non-departmental public body]]
 title: British Geological Survey
-tags:  Publisher
-color: #000000
 type: text/vnd.tiddlywiki
+website: http://www.bgs.ac.uk/
 
-{{{ [tag[British Geological Survey]] }}}
+<<<
+Founded in 1835, the British Geological Survey (BGS) is the world's oldest national geological survey and the United Kingdom's premier centre for earth science information and expertise. The BGS provides expert services and impartial advice in all areas of geoscience. Our client base is drawn from the public and private sectors both in the UK and internationally.
+<<<
+
+BGS is a part of the [[Natural Environment Research Council]] and is frequently cited on [[GOV.UK]] by the [[Department of Energy & Climate Change]].
+
+{{ ||dataset-table }}

@@ -1,6 +1,9 @@
 title: High Speed 2
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/high-speed-two-limited
+abbr: hs2
+icon: hs2_logo
 
-{{{ [tag[High Speed 2]] }}}
+{{ ||dataset-table }}

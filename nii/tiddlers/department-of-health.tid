@@ -1,6 +1,8 @@
 title: Department of Health
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/department-of-health
+icon: org_crest
 
-{{{ [tag[Department of Health]] }}}
+{{ ||dataset-table }}

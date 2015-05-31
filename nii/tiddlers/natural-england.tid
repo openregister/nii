@@ -1,6 +1,13 @@
 title: Natural England
-tags:  Publisher
-color: #000000
+tags:  Publisher [[Executive non-departmental public body]] [[Department for Environment, Food & Rural Affairs]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/natural-england
+abbr: NE
+icon: ne_logo
 
-{{{ [tag[Natural England]] }}}
+<<<
+The government’s adviser on the natural environment, providing practical scientific advice on how to look after England's landscapes and wildlife.
+<<<
+
+{{ ||dataset-table }}

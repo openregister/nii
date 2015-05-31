@@ -1,6 +1,9 @@
 title: Higher Education Statistics Agency
 tags:  Publisher
-color: #000000
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.hesa.ac.uk/
+abbr: hesa
+icon: hesa_logo
 
-{{{ [tag[Higher Education Statistics Agency]] }}}
+{{ ||dataset-table }}

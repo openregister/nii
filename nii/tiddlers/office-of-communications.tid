@@ -1,6 +1,9 @@
 title: Office of Communications
 tags:  Publisher
-color: #000000
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: http://www.ofcom.org.uk/
+abbr: Ofcom
+icon: ofcom_logo
 
-{{{ [tag[Office of Communications]] }}}
+{{ ||dataset-table }}

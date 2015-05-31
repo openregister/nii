@@ -1,6 +1,14 @@
 title: Arts Council England
-tags:  Publisher
-color: #000000
+tags:  Publisher [[Department for Culture, Media and Sport]] [[Executive non-departmental public body]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/arts-council-england
+website: http://www.artscouncil.org.uk/
+abbr: ACE
+icon: ace_logo
 
-{{{ [tag[Arts Council England]] }}}
+<<<
+Arts Council England champions, develops and invests in artistic and cultural experiences to enrich people’s lives. It supports a range of activities across the arts, museums and libraries - from theatre to digital art - reading to dance, music to literature, and crafts to collections.
+<<<
+
+{{ ||dataset-table }}

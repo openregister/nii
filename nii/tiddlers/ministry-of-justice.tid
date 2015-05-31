@@ -1,6 +1,8 @@
 title: Ministry of Justice
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/ministry-of-justice
+icon: org_crest
 
-{{{ [tag[Ministry of Justice]] }}}
+{{ ||dataset-table }}

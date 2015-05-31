@@ -1,6 +1,13 @@
 title: Department for International Development
-tags:  Publisher
-color: #000000
+tags:  Publisher [[GOV.UK]] [[Ministerial department]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+abbr: DFID
+icon: org_crest
+link: https://www.gov.uk/government/organisations/department-for-international-development
 
-{{{ [tag[Department for International Development]] }}}
+<<<
+Leads the UK’s work to end extreme poverty. We're ending the need for aid by creating jobs, unlocking the potential of girls and women and helping to save lives when humanitarian emergencies hit.
+<<<
+
+{{ ||dataset-table }}

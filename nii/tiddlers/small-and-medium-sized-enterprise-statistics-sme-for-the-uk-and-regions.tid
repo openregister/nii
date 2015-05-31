@@ -1,7 +1,12 @@
 created: 20150529210936667
 link: http://data.gov.uk/dataset/small_and_medium_sized_enterprise_statistics_sme_for_the_uk_and_regions
 modified: 20150529210935580
-tags: [[National Information Infrastructure]] Dataset [[Companies and Business Development]] [[Performance and Delivery]] [[Department for Business, Innovation and Skills]] Statistics
+tags: [[National Information Infrastructure]] Dataset [[Companies and Business Development]] [[Performance and Delivery]] [[Department for Business, Innovation & Skills]] Statistics
 title: Small and medium sized enterprise statistics (SME) for the UK and regions
 type: text/vnd.tiddlywiki
 
+<<<
+Presents the number of enterprises (businesses) in the UK along with the turnover and employment in these enterprises.
+<<<
+
+Statistics taken from data which should come from existing accounting data held in registers operated by [[Companies House]].

@@ -1,8 +1,12 @@
 created: 20150529211542893
 link: http://data.gov.uk/dataset/priority-habitats-inventory
-modified: 20150529211602670
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Natural England]] Other
+modified: 20150531131549412
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Natural England]] Register
 title: Priority Habitats Inventory
 type: text/vnd.tiddlywiki
 
-//Data.gov.uk page unavailable//
+//Broken data.gov.uk link, possibly related is http://data.gov.uk/dataset/priority-habitat-inventory-england ://
+
+<<<
+PLEASE NOTE - This version of the Priority Habitats? Inventory is being released as a beta release, with the intention to produce an updated version in the next few months This is a spatial dataset that describes the geographic extent and location of Natural Environment and Rural Communities Act (2006) Section 41 habitats of principal importance. This inventory replaces Natural England's previous separate BAP habitat inventories: blanket bog, coastal [HTML_REMOVED] floodplain grazing marsh, coastal sand dunes, coastal vegetated shingle, deciduous woodland, fens, lowland calcareous grassland, lowland dry acid grassland, lowland heathland, lowland meadows, lowland raised bog, limestone pavements, maritime cliff and slope, mudflats, purple moor grass [HTML_REMOVED] rush pastures, reedbeds, saline lagoons, traditional orchards, undetermined grassland, upland calcareous grassland, upland hay meadows and upland heathland. These earlier inventories were produced from 1999 onwards and derived from habitat datasets collated from across the country, prioritising areas outside of designated sites.
+<<<

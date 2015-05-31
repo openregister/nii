@@ -1,6 +1,13 @@
-title: Department for Environment, Food and Rural Affairs
-tags:  Publisher
-color: #000000
+title: Department for Environment, Food & Rural Affairs
+tags:  Publisher [[GOV.UK]] [[Ministerial department]]
+color: #ffffff
 type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs
+icon: org_crest
+abbr: DEFRA
 
-{{{ [tag[Department for Environment, Food and Rural Affairs]] }}}
+<<<
+The UK government department responsible for policy and regulations on environmental, food and rural issues.
+<<<
+
+{{ ||dataset-table }}
