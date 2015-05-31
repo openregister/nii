@@ -1,7 +1,16 @@
 created: 20150529110423159
 link: http://data.gov.uk/dataset/company-identifiers-uris
-modified: 20150529110422043
+modified: 20150531191038043
 tags: [[National Information Infrastructure]] Dataset [[Companies and Business Development]] Operational [[Companies House]] Register
 title: Company identifiers (URIs)
 type: text/vnd.tiddlywiki
 
+<<<
+Companies House has developed a new service to supply basic company details, using a simple Uniform Resource Identifier (URI) for each company on our register. The URI is a unique web address that represents the company (using the ‘business.data.gov.uk’ domain); and will return basic company details for that company.
+
+The development of company URIs fits with the government transparency agenda of providing easier access to public data; and it will provide a more efficient way of data linking for users and the business information industry.
+
+Data will be returned in the format appropriate to the requesting system using content negotiation (see http://www.w3.org/TR/cooluris/#r303gendocument)
+
+It will only be the basic company details, such as: company name, registered office address, company status, incorporation date, country of origin, company type, nature of business (SIC), accounting reference date, date of last accounts/annual return filed, date of next accounts/annual return due, previous names.
+<<<
