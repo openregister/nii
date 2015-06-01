@@ -1,5 +1,6 @@
 title: Society and Culture
 tags:  Facet
 type: text/vnd.tiddlywiki
+color: #85994B
 
-{{{ [tag[Society and Culture]] }}}
+{{ || dataset-table }}

@@ -1,5 +1,6 @@
 title: Energy and the Environment
 tags:  Facet
 type: text/vnd.tiddlywiki
+color: #85994B
 
-{{{ [tag[Energy and the Environment]] }}}
+{{ || dataset-table }}

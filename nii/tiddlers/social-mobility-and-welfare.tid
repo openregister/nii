@@ -1,5 +1,6 @@
 title: Social Mobility and Welfare
 tags:  Facet
 type: text/vnd.tiddlywiki
+color: #85994B
 
-{{{ [tag[Social Mobility and Welfare]] }}}
+{{ || dataset-table }}

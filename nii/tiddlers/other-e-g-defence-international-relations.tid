@@ -1,5 +1,6 @@
 title: Other e.g. Defence, International Relations
 tags:  Facet
 type: text/vnd.tiddlywiki
+color: #85994B
 
-{{{ [tag[Other e.g. Defence, International Relations]] }}}
+{{ || dataset-table }}

@@ -1,5 +1,6 @@
 title: Crime and Justice
 tags:  Facet
 type: text/vnd.tiddlywiki
+color: #85994B
 
-{{{ [tag[Crime and Justice]] }}}
+{{ || dataset-table }}

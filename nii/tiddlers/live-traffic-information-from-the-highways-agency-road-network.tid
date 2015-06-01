@@ -1,5 +1,19 @@
-title: Live Traffic Information from the Highways Agency Road Network
+created: 20150531213657795
 link: http://data.gov.uk/dataset/live-traffic-information-from-the-highways-agency-road-network
-tags:  [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Highways Agency]]
+modified: 20150531213701012
+tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Highways Agency]]
+title: Live Traffic Information from the Highways Agency Road Network
 type: text/vnd.tiddlywiki
 
+<<<
+Live traffic information data showing traffic information on the strategic road network in England, maintained by the Highways Agency.
+Update: 12th August 2013 Following a change of supplier, the NTIS system is being re-developed and will eventually replace the legacy system. Please consult the updated document which describes the NTIS Legacy DATEX II v1.0 Publisher.
+
+New services will be delivered in DATEX II v2 format using web services to push data to subscribers. Full details of the new services can be found in document NIS P TIH 008 available from the TIH website. Potential subscribers’, Project Managers and engineers seeking to develop a new interface are encouraged to consider using the new services.
+
+The separate datasets are referred to as "information products" and presented as XML, conforming to a Datex 2 data specification. A supporting document is provided to support understanding of the Datex 2 schema.
+
+Information products consist of: Current Roadworks updated every 10 mins (1 M bytes) Future Roadworks updated every 6 hours (2 M bytes) Current Planned Events updated every 10 mins (10 K bytes) Future Planned Events updated every 6 hours (200K bytes) Unplanned Events updated every 10 mins (50 K bytes) All Traffic Data updated every 10 mins (30 M bytes) Journey Time Data updated every 10 mins (500 K bytes) Variable Message Signs updated every 10 mins (3 Mb) Predefined Locations every 5 mins (25 Mb) The Variable Message Signs (VMS) information product will contain the status of all currently set or faulty VMS on the HA network. If the next publication no longer contains a particular VMS, then either the message or fault has been cleared. The payload file will contain VariableMessageSignSetting elements.
+
+Matrix Signals updated every 10 mins (9 M bytes) The Matrix Signal information product will contain the status of all currently set or faulty Matrix Signals on the HA network. If the next publication no longer contains a particular Matrix Signal, then either the setting or fault has been cleared. The payload file will contain MatrixSignSetting elements.
+<<<

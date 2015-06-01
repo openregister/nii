@@ -1,7 +1,10 @@
 created: 20150528133323996
 link: http://data.gov.uk/dataset/os-mastermap-integrated-transport-network-layer1
-modified: 20150528133325962
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]]
+modified: 20150531212753101
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
 title: OS MasterMap® Integrated Transport Network Layer
 type: text/vnd.tiddlywiki
 
+<<<
+The ITN Layer provides a detailed overview of Great Britain transport infrastructures. The first themes to be released are the Roads Network, Road Routing Information (RRI) and Urban Paths . The Roads Network provides a network for those who require increasingly sophisticated geographical data to support their applications. RRI extends the functionality of the data by giving details of height and vehicle restrictions, traffic calming, one-way roads and other information along any given route. Paths complements ITN’s road information by adding path networks in all urban areas larger than 5 Km2.
+<<<

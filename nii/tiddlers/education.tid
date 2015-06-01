@@ -1,5 +1,6 @@
 title: Education
 tags:  Facet
 type: text/vnd.tiddlywiki
+color: #85994B
 
-{{{ [tag[Education]] }}}
+{{ || dataset-table }}

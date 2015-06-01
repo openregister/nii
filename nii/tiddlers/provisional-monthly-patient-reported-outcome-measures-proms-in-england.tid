@@ -1,5 +1,16 @@
-title: Provisional Monthly Patient Reported Outcome Measures (PROMs) in England
+created: 20150601113644156
 link: http://data.gov.uk/dataset/provisional_monthly_patient_reported_outcome_measures_proms_in_england
-tags:  [[National Information Infrastructure]] Dataset [[Health and Social Care]] Fiscal [[NHS Information Centre for Health and Social Care]]
+modified: 20150601113739946
+tags: [[National Information Infrastructure]] Dataset [[Health and Social Care]] Fiscal [[NHS Information Centre for Health and Social Care]]
+title: Provisional Monthly Patient Reported Outcome Measures (PROMs) in England
 type: text/vnd.tiddlywiki
 
+// Broken data.gov.uk link, this is from http://data.gov.uk/dataset/finalised_patient_reported_outcome_measures_proms_in_england //
+
+<<<
+PROMs measures health gain in patients undergoing hip replacement, knee replacement, varicose vein and groin hernia surgery in England, based on responses to questionnaires before and after surgery.
+
+High-level national figures are published monthly for each of the two financial years currently being updated. Full releases, with additional analysis tools and reusable data packs, are published four times a year - usually in February, May, August and November.
+
+Publications are provisional until the data set is declared finalised. An annual publication is produced for each final data year, including a full report with extended analyses.
+<<<

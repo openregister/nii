@@ -1,5 +1,6 @@
 title: Fiscal
 tags:  Facet
 type: text/vnd.tiddlywiki
+color: #85994B
 
-{{{ [tag[Fiscal]] }}}
+{{ || dataset-table }}

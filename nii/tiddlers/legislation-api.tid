@@ -1,7 +1,10 @@
 created: 20150529210155746
 link: http://data.gov.uk/dataset/legislation-api
-modified: 20150529210154674
+modified: 20150601073010700
 tags: [[National Information Infrastructure]] Dataset [[Government Accountability and Democracy]] Operational [[The National Archives]] Register
 title: Legislation API
 type: text/vnd.tiddlywiki
 
+<<<
+API for www.legislation.gov.uk - launched by The National Archives on 29/07/2010 - giving access to the statute book at various levels, for various times, as reusable html fragments, xml and rdf. The API is RESTful and uses content negotiation, so full access to the data can be achieved using http requests. Alternatively, just append data.xml or data.rdf to any legislation page on the website to return the underlying data. The full API is also available from http://legislation.data.gov.uk.
+<<<

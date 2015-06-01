@@ -1,5 +1,10 @@
-title: National Public Access Transport Nodes (NaPTAN)
+created: 20150531215218069
 link: http://www.data.gov.uk/dataset/naptan
-tags:  [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Department for Transport]]
+modified: 20150531215235242
+tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Department for Transport]] Register
+title: National Public Access Transport Nodes (NaPTAN)
 type: text/vnd.tiddlywiki
 
+<<<
+NaPTAN is Britain's national system for uniquely identifying points of access to public transport. It is a core component of the national transport information infrastructure and is used by a number of other UK standards and information systems. There is a NaPTAN record for every bus stop, railway station, airport, ferry terminal etc. in England, Scotland and Wales. Record attributes include co-ordinates (OSGR and Lat-Long), NPTG locality reference, name components and SMS code.
+<<<

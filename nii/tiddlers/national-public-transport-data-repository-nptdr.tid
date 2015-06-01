@@ -1,5 +1,12 @@
-title: National Public Transport Data Repository (NPTDR)
+created: 20150531215302199
 link: http://data.gov.uk/dataset/nptdr
-tags:  [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] [[Performance and Delivery]] [[Department for Transport]]
+modified: 20150531215321793
+tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] [[Performance and Delivery]] [[Department for Transport]] Other
+title: National Public Transport Data Repository (NPTDR)
 type: text/vnd.tiddlywiki
 
+<<<
+The NPTDR database contains a snapshot of every public transport journey in Great Britain for a selected week in October each year. Data is currently available for October 2004 to October 2011.
+
+The dataset is compiled with information from many sources, including local public transport information from each of the traveline regions, also coach services from the national coach services database and rail information from the Association of Train Operating Companies (ATOC). NPTDR is mainly used by local authorities and other organisations in the production of accessibility indicators via software tools such as Accession.
+<<<

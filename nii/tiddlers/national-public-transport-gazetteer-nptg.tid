@@ -1,5 +1,10 @@
-title: National Public Transport Gazetteer (NPTG)
+created: 20150531215347126
 link: http://data.gov.uk/dataset/nptg
-tags:  [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Department for Transport]]
+modified: 20150531215358558
+tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] Location [[Department for Transport]] Register
+title: National Public Transport Gazetteer (NPTG)
 type: text/vnd.tiddlywiki
 
+<<<
+NPTG is a database of localities (cities, towns, villages and other settlements) in Great Britain. It provides a common frame of reference for the National Public Access Nodes (NaPTAN) schema and other UK Public Transport Information schemas such as JourneyWeb. The appropriate naming and geospatial location of towns and places is vital for providing effective place and stop finding in on-line journey planners and other passenger information systems. Names are those that would be used by the people that reside or work in that place; the geospatial location is selected to optimise journey planning and other passenger information usage. The NPTG XML schema is used to distribute topographic data from the NPTG database to the local Administrative Areas who administer NaPTAN data, as well as other downstream Public Transport Information systems such as journey planners.
+<<<

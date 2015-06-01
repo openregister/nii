@@ -1,5 +1,6 @@
 title: Government Accountability and Democracy
 tags:  Facet
 type: text/vnd.tiddlywiki
+color: #85994B
 
-{{{ [tag[Government Accountability and Democracy]] }}}
+{{ || dataset-table }}

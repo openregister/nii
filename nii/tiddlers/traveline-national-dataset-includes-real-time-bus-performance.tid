@@ -1,5 +1,12 @@
-title: Traveline National Dataset (includes real time bus performance)
+created: 20150601113357233
 link: http://www.data.gov.uk/dataset/traveline-national-dataset
-tags:  [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] [[Performance and Delivery]] [[Department for Transport]]
+modified: 20150601113408568
+tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastructure]] [[Performance and Delivery]] [[Department for Transport]] Register
+title: Traveline National Dataset (includes real time bus performance)
 type: text/vnd.tiddlywiki
 
+<<<
+This is the Traveline National Dataset which contains public transport timetables for bus , light rail, tram and ferry services in Great Britain. It does not include national rail or coach services.
+
+The dataset is updated weekly and is supplied in TransXChange format (XML).
+<<<

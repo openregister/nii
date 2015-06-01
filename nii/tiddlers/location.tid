@@ -1,5 +1,6 @@
 title: Location
 tags:  Facet
 type: text/vnd.tiddlywiki
+color: #85994B
 
-{{{ [tag[Location]] }}}
+{{ || dataset-table }}

@@ -2,5 +2,6 @@ created: 20150527204305364
 modified: 20150530143554298
 title: Publisher
 type: text/vnd.tiddlywiki
+color: #ffffff
 
-{{{ [tag[Publisher]] }}}
+{{ ||publisher-list }}

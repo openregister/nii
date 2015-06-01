@@ -1,5 +1,6 @@
 title: Operational
 tags:  Facet
 type: text/vnd.tiddlywiki
+color: #85994B
 
-{{{ [tag[Operational]] }}}
+{{ || dataset-table }}

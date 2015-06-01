@@ -1,5 +1,6 @@
 created: 20150531184845436
-modified: 20150531184937321
+modified: 20150601112915121
 title: Ministerial department
 type: text/vnd.tiddlywiki
 
+{{ ||publisher-list }}

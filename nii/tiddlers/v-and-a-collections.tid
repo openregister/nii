@@ -1,0 +1,11 @@
+link: http://data.gov.uk/dataset/search-the-collections
+tags: [[National Information Infrastructure]] Dataset [[Society and Culture]] Location [[Victoria & Albert Museum]] Register
+title: V&A Collections
+type: text/vnd.tiddlywiki
+
+<<<
+1.1 million catalogue records and over 360,000 images of objects in the V&A’s collection. The dataset is published online via the Search the Collections website which is refreshed every month and has a free-to-use application programming interface (API).
+
+Release Notes:
+Introductory page to the collections API is at: http://www.vam.ac.uk/api/ The V&A is also in discussion with Culture Grid about alternative formats for data to increase access through Culture Grid and Europeana.
+<<<
