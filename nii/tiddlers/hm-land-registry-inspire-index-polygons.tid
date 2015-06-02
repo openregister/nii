@@ -1,7 +1,14 @@
 created: 20150529202939722
 link: http://www.data.gov.uk/dataset/hm-land-registry-inspire-index-polygons
 modified: 20150529202938647
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Land Registry]] Register
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Land Registry]] Register [[Broken link]]
 title: HM Land Registry INSPIRE Index Polygons
 type: text/vnd.tiddlywiki
 
+A constructed index of extents of properties. Misses a link to the [[Title Information]].
+
+From http://data.gov.uk/dataset/land-registry-inspire-service-metadata :
+
+<<<
+Land Registry INSPIRE Index Polygons Service is a Web Mapping Service (WMS) which provides map images of Land Registry's INSPIRE index polygons. The INSPIRE Index polygons are a subset of the Land Registry Index Polygon dataset structured to meet the requirements of the INSPIRE Cadastral Parcel data specification. The INSPIRE index polygon dataset contains only freehold registrations. These polygons indicate the location of registered land. The polygons are labelled with a number, the Land Registry INSPIRE-ID, the INSPIRE-ID is unique for each polygon. You can use the Land Registry INSPIRE-ID to search for related services via the Land Registry Find a Property website: https://www.landregistry.gov.uk/wps/portal/Property_Search Here you can purchase the Title Register, Title Plan and the Flood Risk Indicator associated to the registered parcel.
+<<<

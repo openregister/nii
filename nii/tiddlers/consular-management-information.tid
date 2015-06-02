@@ -1,8 +1,15 @@
 created: 20150529204001521
 link: http://www.data.gov.uk/dataset/consular-management-information
 modified: 20150529204030529
-tags: [[National Information Infrastructure]] Dataset [[Other e.g. Defence, International Relations]] [[Performance and Delivery]] [[Foreign and Commonwealth Office]] Other
+tags: [[National Information Infrastructure]] Dataset [[Other e.g. Defence, International Relations]] [[Performance and Delivery]] [[Foreign and Commonwealth Office]] Other [[Broken link]]
 title: Consular Management Information
 type: text/vnd.tiddlywiki
 
-//Data.gov.uk page isn't available//
+From http://data.gov.uk/dataset/consular-management-information-_1 :
+
+<<<
+Data from various sources (including Compass, BRIDGE, and the Online Monthly Collection Sheet (OMCS) returns). It is used to allow Consular to retrieve statistics on case numbers, types etc, and provides the data for the British Behaviour Abroad Report. It is held on the Jedox database.
+
+Release Notes:
+Data will need to be anonymised
+<<<

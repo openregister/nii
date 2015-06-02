@@ -1,0 +1,12 @@
+{
+    "description": "Server edition",
+    "plugins": [
+        "tiddlywiki/tiddlyweb",
+        "tiddlywiki/filesystem",
+        "tiddlywiki/codemirror",
+        "tiddlywiki/highlight"
+    ],
+    "includeWikis": [
+         "../nii"
+    ]
+}

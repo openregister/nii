@@ -1,7 +1,14 @@
 created: 20150529100828897
 link: http://data.gov.uk/dataset/addressbase-premium
 modified: 20150529100827810
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
-title: AddressBase Premium
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register [[AddressBase™]]
+title: AddressBase™ Premium
 type: text/vnd.tiddlywiki
 
+<<<
+AddressBase™ Premium provides the most detailed view of an address and its lifecycle.
+
+It contains all the [[AddressBase™ Plus]] information and functionalities.
+
+But the real benefit is that it includes a range of information relating to an address or property from creation to retirement or demolition.
+<<<

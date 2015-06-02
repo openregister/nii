@@ -1,0 +1,8 @@
+title: Organisation
+type: text/vnd.tiddlywiki
+tags: 
+color: #6F777B
+
+<$list filter="[all[current]tagging[]sort[]]">
+    <<tag>>
+</$list>

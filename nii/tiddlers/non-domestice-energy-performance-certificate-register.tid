@@ -5,3 +5,9 @@ tags: [[National Information Infrastructure]] Dataset [[Energy and the Environme
 title: Non-Domestice Energy Performance Certificate Register
 type: text/vnd.tiddlywiki
 
+<<<
+Electronic Register containing all data in relation to Energy Performance Certificates that have been prepared for both new build and existing non-domestic buildings, Display Energy Certificates for public buildings and Air Conditioning Inspection Reports for air conditioning installations that exceed 12kwh in England and Wales. EPCs for non-domestic buildings are prepared using Simplified Building Energy Model (SBEM) or an approved Dynamic Simulation Model (DSM), DECs are prepared using the Operational Rating Calculation Methodology (ORCalc) and Air Conditioning Reports are prepared using an approved Air Conditioning Software package
+
+Release Notes:
+Extracted data already available online; dataset made available for a fee.
+<<<

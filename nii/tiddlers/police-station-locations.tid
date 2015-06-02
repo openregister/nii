@@ -5,3 +5,9 @@ tags: [[National Information Infrastructure]] Dataset [[Crime and Justice]] Loca
 title: Police station locations
 type: text/vnd.tiddlywiki
 
+<<<
+Location and contact deails for police stations on Police.uk
+
+Release Notes:
+Data not owned by Home Office, but by individual police forces. The data.police.uk API provides data for the nearest police stations (where available) and the Home Office will continue to work with forces to improve this data set.
+<<<

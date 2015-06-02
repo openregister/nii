@@ -1,10 +1,10 @@
 created: 20150527104028084
 modified: 20150530193525059
-tags: Annotation
+tags: Category
 title: Statistics
 type: text/vnd.tiddlywiki
 color: #DF3034
 
-Statistics indicates a periodic publication, unlikely to be a register.
+A one-off or periodical publication of statistical data.
 
 {{ ||dataset-table }}

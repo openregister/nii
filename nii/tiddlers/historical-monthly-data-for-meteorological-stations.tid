@@ -1,7 +1,23 @@
 created: 20150531212955141
 link: http://data.gov.uk/dataset/historic-monthly-meteorological-station-data
-modified: 20150531212954012
+modified: 20150602123030338
 tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] [[Performance and Delivery]] [[Met Office]] Register
 title: Historical monthly data for meteorological stations
 type: text/vnd.tiddlywiki
 
+<<<
+Monthly Historical information for 37 UK Meteorological Stations. Most go back to the early 1900s, but some go back as far as 1853.
+
+Data includes:
+
+Mean maximum temperature (tmax)
+Mean minimum temperature (tmin)
+Days of air frost (af)
+Total rainfall (rain)
+Total sunshine duration (sun)
+Station data files are updated on a rolling monthly basis, around 10 days after the end of the month. Data are indicated as provisional until the full network quality control has been carried out. After this, data are final.
+
+No allowances have been made for small site changes and developments in instrumentation.
+
+Data and statistics for other stations, and associated charges, can be obtained by contacting our Customer Centre.
+<<<

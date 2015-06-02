@@ -5,3 +5,9 @@ tags: [[National Information Infrastructure]] Dataset [[Energy and the Environme
 title: Domestic Energy Performance Certificate Register
 type: text/vnd.tiddlywiki
 
+<<<
+Electronic register containing all data in relation to Energy Performance Certificates that have been prepared for both new build and existing dwellings in England and Wales. EPCs for existing dwellings is prepared using Reduced Data Standard Assessment Procedure (RdSAP) and EPCs for new build dwellings are prepared using Standard Assessment Procedure (SAP).
+
+Release Notes:
+Extracted data already available online; dataset made available for a fee. Release of the full data would be dependant on establishing an appropriate way of removing personal information whilst retaining data integrity.
+<<<

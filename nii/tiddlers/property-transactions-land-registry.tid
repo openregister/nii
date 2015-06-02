@@ -1,7 +1,14 @@
 created: 20150529211142829
 link: http://data.gov.uk/dataset/property-transactions-land-registry
 modified: 20150529211141746
-tags: [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Department for Communities and Local Government]] Register
+tags: [[National Information Infrastructure]] Dataset [[Social Mobility and Welfare]] [[Performance and Delivery]] [[Department for Communities and Local Government]] Register [[Broken link]]
 title: Property Transactions (Land Registry)
 type: text/vnd.tiddlywiki
 
+From http://data.gov.uk/dataset/monthly-land-registry-property-transaction-data :
+
+<<<
+Transaction data gives numbers of applications for first registrations, leases, transfers of part, dealings, official copies and searches lodged with Land Registry by account holders in the preceding month. The information is divided into data showing all applications lodged, transactions for value, by region and local authority district. Transactions for value include freehold and leasehold sales. The data published on this page gives you information about the number and types of applications that we have completed. The data reflects the volume of applications lodged by customers using a Land Registry account number on their application form. . The data does not include applications that are not yet completed, or all the applications lodged with us.
+
+We strive to ensure that our data is as accurate as possible but cannot guarantee that it is free from errors: https://www.gov.uk/government/publications/land-registry-data
+<<<

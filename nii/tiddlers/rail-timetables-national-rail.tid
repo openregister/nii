@@ -5,3 +5,30 @@ tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastruc
 title: Rail Timetables (National Rail)
 type: text/vnd.tiddlywiki
 
+<<<
+We have a number of operational data feeds available to developers. By providing access to these feeds, we hope to encourage the development of new products of interest to those who use the railway..
+
+The feeds available are:
+
+SCHEDULE - daily extracts and updates of train schedules from the Integrated Train Planning System, in CIF and JSON formats
+MOVEMENT - train positioning and movement event data
+TD - train positioning data at signalling berth level
+TSR (Temporary Speed Restrictions) – details of temporary reductions in permissible speed across the rail network
+VSTP (Very Short Term Plan) – train schedules created via the VSTP process which are not available via the SCHEDULE feed
+RTPPM (Real-Time Public Performance Measure) - performance of trains against the timetable, measured as the percentage of trains arriving at their destination on-time
+SMART - train describer berth offset data used for train reporting
+Corpus - location reference data
+BPLAN - train planning data, including locations and sectional running times
+
+To use these feeds, you will need to create an account with us. Anyone can do so, but there is a limit of 500 registered users, which will be increased if there is sufficient demand.
+
+Access is provided under special terms and conditions, which you must agree to as a condition of your use of the data feeds. These terms and conditions may be amended from time to time.
+
+For technical details on the formatting of the feeds, how they work, please visit the Open Rail Data wiki at http://nrodwiki.rockshore.net/
+
+The data feeds are provided by, and belong to, Network Rail Infrastructure Limited. The terms and conditions do not include the right to use our brand or logo, or those of any of our partners, including National Rail and the train operating companies. We do not allow any app or website that you produce using our data feeds to be called “official”, as this will mislead the public.
+
+We make no guarantees with regard to the availability or total uptime of the data feeds.
+
+For support, or to report a problem with the feeds, please contact nrod.support@rockshore.net
+<<<

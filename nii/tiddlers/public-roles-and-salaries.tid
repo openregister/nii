@@ -5,3 +5,6 @@ tags: [[National Information Infrastructure]] Dataset [[Government Accountabilit
 title: Public roles and salaries
 type: text/vnd.tiddlywiki
 
+<<<
+The central organogram web application provides a convenient way for users to browse public roles and salaries across government. The web application contains embedded links to the RDF data behind it. This data is the same as the data for each public body which must be listed as a separate dataset on data.gov.uk.
+<<<

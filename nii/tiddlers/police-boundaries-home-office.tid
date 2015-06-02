@@ -5,3 +5,8 @@ tags: [[National Information Infrastructure]] Dataset [[Crime and Justice]] Loca
 title: Police (boundaries) (Home Office)
 type: text/vnd.tiddlywiki
 
+<<<
+A KML version of the Police Force boundaries in England and Wales.
+
+Each of the 44 police forces (e.g. Avon & Somerset, Bedfordshire, Cambridgeshire) has a KML file containing a single polygon describing its area. Each polygon is made of up to 10,000 latitude/longitude points.
+<<<

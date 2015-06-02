@@ -5,3 +5,9 @@ tags: [[National Information Infrastructure]] Dataset [[Energy and the Environme
 title: Planning Portal
 type: text/vnd.tiddlywiki
 
+<<<
+Website and transaction service for submitting planning applications; portal to a planning database. The system is supplied by commercial suppliers IBM
+
+Release Notes:
+Release would be dependant on establishing an appropriate way of removing personal information whilst retaining data integrity
+<<<

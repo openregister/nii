@@ -5,3 +5,10 @@ tags: [[National Information Infrastructure]] Dataset [[Science and Research]] L
 title: UK Earthquake Seismogram Data
 type: text/vnd.tiddlywiki
 
+<<<
+Responsible Party: British Geological Survey (distributor, originator, pointOfContact, custodian)
+
+Environment
+
+Recordings of earthquakes and other signals (such as quarry blasts, explosions, sonic booms and collapses) made by a network of seismometers and similar sensors across the UK. Recordings start in 1977 (with a few events recorded before this) and continue to the present day. Data is used for monitoring of seismic activity, studies of seismic hazard and scientific study of the Earth's interior. Data is freely available on request. Some data can be retrieved from the BGS AutoDRM (Automatic Data Request Manager) service. Time series data recorded by UK seismic networks.
+<<<

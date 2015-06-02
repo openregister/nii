@@ -1,7 +1,12 @@
 created: 20150529201536622
 link: http://data.gov.uk/dataset/code-point-with-polygons
 modified: 20150529201534948
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register [[Code-Point®]]
 title: Codepoint with polygons
 type: text/vnd.tiddlywiki
 
+<<<
+Code-Point® with polygons contains postcode boundaries for Great Britain.
+
+These show the extent of each postcode unit, enabling you to analyse information by postcode. Ideal for activities such as sales targeting or market profiling, as well as any statistical work.
+<<<

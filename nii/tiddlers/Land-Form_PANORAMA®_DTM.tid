@@ -1,7 +1,11 @@
 created: 20150528133756842
 link: http://data.gov.uk/dataset/land-form-panorama-dtm
 modified: 20150529211158258
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register [[Land-Form PANORAMA®]]
 title: Land-Form PANORAMA® DTM
 type: text/vnd.tiddlywiki
+
+<<<
+[[Land-Form PANORAMA®]] is a mid-scale product representing the physical three-dimensional shape of the surface of the ground. The DTM dataset consists of a gridded digital terrain model with a 50 metre post spacing.
+<<<
 

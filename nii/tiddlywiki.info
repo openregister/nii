@@ -1,14 +1,9 @@
 {
-    "description": "Basic edition",
+    "description": "National Information Infrastructure",
     "plugins": [
-        "tiddlywiki/tiddlyweb",
-        "tiddlywiki/filesystem",
-        "tiddlywiki/codemirror",
-        "tiddlywiki/highlight"
     ],
     "themes": [
-        "tiddlywiki/vanilla",
-        "tiddlywiki/snowwhite"
+        "tiddlywiki/vanilla"
     ],
     "build": {
         "index": [
@@ -19,21 +14,8 @@
         ],
         "static": [
             "--rendertiddler",
-            "$:/core/templates/static.template.html",
-            "static.html",
-            "text/plain",
-            "--rendertiddler",
-            "$:/core/templates/alltiddlers.template.html",
-            "alltiddlers.html",
-            "text/plain",
-            "--rendertiddler",
-            "$:/core/templates/static.template.css",
-            "static/static.css",
-            "text/plain",
-            "--rendertiddlers",
-            "[!is[system]]",
-            "$:/core/templates/static.tiddler.html",
-            "static",
+            "nii-notes.template.html",
+            "nii-notes.html",
             "text/plain"
         ]
     }

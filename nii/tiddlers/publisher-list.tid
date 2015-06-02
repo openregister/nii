@@ -8,7 +8,7 @@ There are <$count filter="[all[current]tagging[]tag[Publisher]]"/> [[publishers|
 
 <table>
 <tr style="height:3em;">
-  <td><<tag Publisher>></td>
+  <td>[[Publisher]]</td>
   <td>Tags</td>
 </tr>
 <$list filter="[all[current]tagging[]tag[Publisher]sort[]]">
@@ -18,7 +18,7 @@ There are <$count filter="[all[current]tagging[]tag[Publisher]]"/> [[publishers|
       <$transclude tiddler={{!!icon}}/> <$view field="title" format="text" />
     </$button>
   </td>
-  <td><$list filter="[all[current]tags[]]">
+  <td><$list filter="[all[current]tags[]sort[]]">
     <$button class="tc-btn-invisible tc-tiddlylink tc-tag-label" style="background-color: #ffffff; color: #000000" to={{!!title}}>
       <$transclude tiddler={{!!icon}}/> <$view field="title" format="text" />
     </$button>

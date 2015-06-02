@@ -1,0 +1,13 @@
+tags: crest
+title: statistics_icon
+type: image/svg+xml
+
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="89.000000pt" height="90.000000pt" viewBox="0 0 89.000000 90.000000" preserveAspectRatio="xMidYMid meet">
+<g transform="translate(0.000000,90.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
+<path d="M49 851 l-29 -29 0 -372 0 -372 29 -29 29 -29 367 0 367 0 29 29 29 29 0 372 0 372 -29 29 -29 29 -367 0 -367 0 -29 -29z m731 -401 l0 -340 -335 0 -335 0 0 340 0 340 335 0 335 0 0 -340z"/>
+<path d="M310 400 l0 -250 55 0 55 0 0 250 0 250 -55 0 -55 0 0 -250z"/>
+<path d="M630 345 l0 -195 55 0 55 0 0 195 0 195 -55 0 -55 0 0 -195z"/>
+<path d="M150 290 l0 -140 55 0 55 0 0 140 0 140 -55 0 -55 0 0 -140z"/>
+<path d="M470 235 l0 -85 55 0 55 0 0 85 0 85 -55 0 -55 0 0 -85z"/>
+</g>
+</svg>

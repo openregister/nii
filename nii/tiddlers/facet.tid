@@ -1,6 +1,12 @@
-tags:
+color: #85994B
+created: 20150601200503321
+modified: 20150601200807146
+tags: 
 title: Facet
 type: text/vnd.tiddlywiki
-color: #85994B
 
-{{ ||dataset-table }}
+The [[National Information Infrastructure]] has tagged each dataset with one or more of the following facets:
+
+<$list filter="[all[current]tagging[]sort[]]">
+	<<tag>>
+</$list>

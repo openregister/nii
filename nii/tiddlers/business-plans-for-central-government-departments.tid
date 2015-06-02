@@ -5,3 +5,10 @@ tags: [[National Information Infrastructure]] Dataset [[Government Accountabilit
 title: Business Plans for Central Government Departments
 type: text/vnd.tiddlywiki
 
+<<<
+This data allows the public to track the Government's progress in implementing the reforms set out in the 2012-15 Business Plans.
+
+The web page provides graphs of progress and lists of recently completed actions.
+
+The API provides full details of each action by each central government department with dates of scheduled and actual start/end dates, in JSON and XML format.
+<<<

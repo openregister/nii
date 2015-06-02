@@ -5,3 +5,9 @@ tags: [[National Information Infrastructure]] Dataset [[Government Accountabilit
 title: UK Legislation
 type: text/vnd.tiddlywiki
 
+<<<
+Original (as enacted) and revised versions of UK legislation
+
+Release Notes:
+Already available on legislation.gov.uk, via API as machine-readable and linked data
+<<<

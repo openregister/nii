@@ -1,10 +1,10 @@
 created: 20150529101110495
 modified: 20150530185050123
-tags: Annotation
+tags: Category
 title: Other
 type: text/vnd.tiddlywiki
 color: #DF3034
 
-Data which is not facts recorded in a Register or statistics published by the [[ONS|Office for National Statistics]] or on [[GOV.UK]].
+Bitmaps, informal data, or other publication which is not facts recorded in a [[Register]] or [[Statistics]] published by the [[ONS|Office for National Statistics]] or on [[GOV.UK]].
 
 {{ ||dataset-table }}

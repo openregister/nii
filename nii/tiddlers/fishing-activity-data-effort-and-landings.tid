@@ -5,3 +5,10 @@ tags: [[National Information Infrastructure]] Dataset [[Energy and the Environme
 title: Fishing Activity Data (effort and landings)
 type: text/vnd.tiddlywiki
 
+A series of publications, including [[Marine Management Organisation Legacy Marine Licences (Point)|http://data.gov.uk/dataset/marine-management-organisation-legacy-marine-licences-point]]:
+<<<
+GIS (Geographic Information System) data outlining the boundaries to Legacy (pre April 2011) marine licence actvities - created by the MMO as part of the legacy licesing project
+
+Release Notes:
+This dataset is in scope of Infrastructure for Spatial Information in the European Community (INSPIRE) and it is at an advanced stage of preparation for publication in line with the INSPIRE regulations.
+<<<

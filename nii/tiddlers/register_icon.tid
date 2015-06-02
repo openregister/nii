@@ -1,0 +1,12 @@
+tags: crest
+title: register_icon
+type: image/svg+xml
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px" height="200px" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<rect x="23.421" y="43.316" fill="#0B0B0B" width="21.306" height="21.306"/>
+<rect x="23.421" y="89.517" fill="#0B0B0B" width="21.306" height="21.306"/>
+<rect x="23.421" y="135.719" fill="#0B0B0B" width="21.306" height="21.307"/>
+<rect x="69.622" y="43.316" fill="#0B0B0B" width="108.082" height="21.306"/>
+<rect x="69.622" y="89.517" fill="#0B0B0B" width="69.279" height="21.306"/>
+<rect x="69.622" y="135.719" fill="#0B0B0B" width="94.163" height="21.307"/>
+</svg>

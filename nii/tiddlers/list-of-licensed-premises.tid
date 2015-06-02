@@ -5,3 +5,12 @@ tags: [[National Information Infrastructure]] Dataset [[Society and Culture]] Lo
 title: List of Licensed Premises
 type: text/vnd.tiddlywiki
 
+<<<
+This dataset contains a list of the premises in Great Britain which can provide facilities for gambling. This includes betting shops, casinos, bingo premises and arcades.
+The Gambling Commission licenses and regulates gambling operators in Great Britain. Licensing authorities are responsible for issuing premises licences. Licesning authorities notify the Commission when they issue these licences and the Commission maintains a database of these notifications. This is where this extract is taken from. 
+
+
+We cannot provide any assurance on the completeness and accuracy of this data. For accurate premises information, Licensing Authorities should be contacted directly as they will each maintain an accurate and up to date register.
+
+The extract lists premises which the Gambling Commission has been notified of as having an active premises licence (shown as ‘ACTIVE’ or ‘GRANT’) and those that we have been informed are at application stage (‘APPLICATION’). It also lists premises that are subject to an application to vary the licence (shown as ‘VARIATION’).
+<<<

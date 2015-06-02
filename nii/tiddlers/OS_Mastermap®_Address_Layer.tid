@@ -1,7 +1,7 @@
 created: 20150528133233835
 link: http://data.gov.uk/dataset/os-mastermap-address-layer
 modified: 20150530181458864
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register [[AddressBase™]]
 title: OS Mastermap® Address Layer
 type: text/vnd.tiddlywiki
 
@@ -17,4 +17,4 @@ Addresses are subject to a high level of change from:
 OS MasterMap Address Layer provides a robust mechanism for professional users to track and manage these address changes relating to the actual property on the ground, and a continuity between a physical property (essentially unchanging) and the dynamics describing that property (changeable).
 <<<
 
-Pretty much synonymous with [[AddressBase™]].
+Closely related to [[AddressBase™]].

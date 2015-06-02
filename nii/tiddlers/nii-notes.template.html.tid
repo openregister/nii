@@ -1,0 +1,8 @@
+title: nii-notes.template.html
+type: text/vnd.tiddlywiki-html
+
+<$set name="exportFilter" value="[!is[system]tag[Dataset]sort[title]]">
+
+{{$:/core/templates/exporters/StaticRiver}}
+
+</$set>

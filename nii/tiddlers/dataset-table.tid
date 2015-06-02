@@ -8,11 +8,11 @@ There are <$count filter="[all[current]tagging[]tag[Dataset]]"/> [[datasets|Data
 
 <table>
 <tr style="height:3em;">
-  <td><<tag Register>></td>
-  <td><<tag Statistics>></td>
-  <td><<tag Other>></td>
-  <td><<tag Dataset>></td>
-  <td><<tag Publisher>></td>
+  <td>[[Register]]</td>
+  <td>[[Statistics]]</td>
+  <td>[[Other]]</td>
+  <td>[[Dataset]]</td>
+  <td>[[Publisher]]</td>
 </tr>
 <$list filter="[all[current]tagging[]tag[Dataset]sort[]]">
 <tr>

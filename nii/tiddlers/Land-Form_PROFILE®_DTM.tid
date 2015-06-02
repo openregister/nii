@@ -1,7 +1,10 @@
 created: 20150528134028753
 link: http://data.gov.uk/dataset/land-form-profile-dtm
 modified: 20150529211159472
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register  [[Land-Form PROFILE®]]
 title: Land-Form PROFILE® DTM
 type: text/vnd.tiddlywiki
 
+<<<
+Ordnance Survey’s Land-Form PROFILE DTM is a dataset representing the physical shape of the real world. The dataset consists of a 10 metre spaced grid of heighted points derived from the Land-Form PROFILE® Contours product.
+<<<

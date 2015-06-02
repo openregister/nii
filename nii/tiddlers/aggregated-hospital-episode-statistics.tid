@@ -1,8 +1,15 @@
 created: 20150529105205574
 link: http://data.gov.uk/data/search?q=%22Hospital+Episode+Statistics%22
 modified: 20150529154754889
-tags: [[National Information Infrastructure]] Dataset [[Health and Social Care]] Operational [[NHS Information Centre for Health and Social Care]] Statistics
+tags: [[National Information Infrastructure]] Dataset [[Health and Social Care]] Operational [[NHS Information Centre for Health and Social Care]] Statistics [[Broken link]]
 title: Aggregated Hospital Episode Statistics
 type: text/vnd.tiddlywiki
 
-//Broken link//
+http://data.gov.uk/dataset/hospital-episode-statistics
+
+<<<
+HES is the national statistical data warehouse for England of the care provided by NHS hospitals and for NHS hospital patients treated elsewhere. HES is the data source for a wide range of healthcare analysis for the NHS, government and many other organisations and individuals.  It does not include private activity.
+
+Release Notes:
+Yes - supplied via a chargeable service with reuse terms
+<<<

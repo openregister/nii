@@ -5,3 +5,9 @@ tags: [[National Information Infrastructure]] Dataset [[Crime and Justice]] Oper
 title: Stolen vehicle data
 type: text/vnd.tiddlywiki
 
+<<<
+A data set of motor vehicles that have been reported to the police as lost or stolen. This data set would enable prospective buyers of second hand cars to check provenance before making a purchase. This data would identify the vehicle, by vehicle registration number and vehicle indentification number but not the registered keeper of the vehicle.
+
+Release Notes:
+Data not owned by Home Office, but by independent police forces. Home Office working with these and other government agencies regarding feasibility of publishing this data in suitably anonymysed form
+<<<

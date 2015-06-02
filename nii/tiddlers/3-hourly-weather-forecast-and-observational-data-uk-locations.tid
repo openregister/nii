@@ -1,7 +1,22 @@
 created: 20150529101243201
 link: http://data.gov.uk/dataset/metoffice_uklocs3hr_fc
-modified: 20150529101242134
+modified: 20150602123028619
 tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] [[Performance and Delivery]] [[Met Office]] Register
 title: 3 hourly weather forecast and observational data - UK locations
 type: text/vnd.tiddlywiki
 
+<<<
+The interface gives access to three datasets, hourly observations for approximately 150 UK observing stations, daily site specific and 3 hourly site specific forecasts for approximately 5000 UK locations.
+
+Both the 3 hourly and daily forecast datasets provide forecasts out to 5 days with updates issued hourly.
+
+Daily forecasts provide data for day and night using the following data time intervals.
+
+· Weather symbols: Day – Sunrise to sunset, Night Sunset to Sunrise
+
+· Temperature: Max – Maximum during 0600-18:00, Minimum during 18:00-06:00
+
+· All other parameters are calculated for midday or midnight.
+
+Hourly observation reports as recorded in real time by the Met Office UK Monitoring System. It should be noted that sites will only report parameters based on the instrumentation installed at each site and we only make available those parameters published on the Met Office website. Observations are subject to final quality control by the Met Office after publication by data.gov.uk, any changes made will not be retrospectively applied to this dataset.
+<<<

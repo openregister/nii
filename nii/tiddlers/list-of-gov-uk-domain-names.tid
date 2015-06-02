@@ -5,3 +5,20 @@ tags: [[National Information Infrastructure]] Dataset [[Government Accountabilit
 title: List of .gov.uk domain names
 type: text/vnd.tiddlywiki
 
+<<<
+The UK Government manages the .gov.uk domain name registry in order to signify digital services that are part of the administration of the state, so that they can be identified as authoritative and trustworthy.
+
+The rules governing which organisations are eligible to register .gov.uk domain names and those names that may be used are set out in Naming and registering websites and social media channels.
+
+Public sector bodies may register .gov.uk domain names for a variety of purposes:
+
+Email only purposes Websites, including those for campaigns, education, information and transactions Page redirection (e.g. for alternative spellings of domain names) To maintain access to information on the UK Government Website Archive Domain registration is requested via an Internet Service Provider (ISP) to the technical administrators of the .gov.uk second level domain, JANET(UK). JANET(UK) acts as the domain name registry, holding information on which domain names are registered and who owns them on behalf of Cabinet Office.
+
+Cabinet Office is responsible for approving requests for new domain names and any appeals. The .gov.uk domain name approvals and appeals process is described online.
+
+About the list of.gov.uk domains
+
+The list of.gov.uk domain names is available in CSV format with the following columns:
+
+Domain Name: the domain name registered for use. If intended for use with a Web browser, this should work with or without a preceding ‘www.’ Owner: the name of the organisation that owns the domain name, for example a central government department or local authority.
+<<<

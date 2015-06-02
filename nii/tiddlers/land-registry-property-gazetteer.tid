@@ -5,3 +5,10 @@ tags: [[National Information Infrastructure]] Dataset [[Energy and the Environme
 title: Land Registry Property Gazetteer
 type: text/vnd.tiddlywiki
 
+<<<
+An address database that links title registrations to an address. The address can then be used as an easy way to search for title registrations. Addresses are captured from registration documents provided by customers at the time of registration and validated against third part data (Ordnance Survey (OS) Address Layer 2). Database also contains addresses from OS Address Layer 2 that have yet to be registered. Index polygons are captured against OS Mastermap between the scales of 1:1,250 (urban), 1:2,500 (rural) and 1:10,000 (mountain and moorland). Index Polygon extents are indicative of the title registration, the Title Plan and register should be consulted for full details.
+
+Release Notes:
+The data release will be subject to assessing whether the data is:
+• Personal • Disclosive • Mandated to be produced under Land Registry’s public task (Section 66 of the Land Registration Act 2002 or Rule 140 of the Land Registration Rules 2003) • Subject to - Third party intellectual and other protected rights, including database rights, - Data protection - Human rights/privacy claims
+<<<

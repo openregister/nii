@@ -1,7 +1,10 @@
 created: 20150528133813896
 link: http://data.gov.uk/dataset/land-form-profile-contours
 modified: 20150529211158835
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register [[Land-Form PROFILE®]]
 title: Land-Form PROFILE® Contours
 type: text/vnd.tiddlywiki
 
+<<<
+Ordnance Survey’s Land-Form PROFILE Contours is a dataset representing the physical shape of the real world. The dataset includes contours, air heights, spot heights, and high and low water marks. The contour data and selected air heights are captured from Ordnance Survey’s 1:10 000 scale mapping; this is supplemented by spot heights, and high and low water marks from Ordnance Survey large-scales digital data.
+<<<

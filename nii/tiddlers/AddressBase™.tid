@@ -1,8 +1,10 @@
 created: 20150528134931393
 link: http://data.gov.uk/dataset/addressbase
 modified: 20150528135130581
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register [[AddressBase™]]
 title: AddressBase™
 type: text/vnd.tiddlywiki
 
+<<<
 ~AddressBase™ contains Royal Mail PAF addresses (for England and Wales), both commercial and residential matched to the local authority [[Unique Property Reference Number]] (UPRN).
+<<<

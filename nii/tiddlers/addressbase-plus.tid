@@ -1,7 +1,12 @@
 created: 20150529100831604
 link: http://data.gov.uk/dataset/addressbase-plus
 modified: 20150529100830536
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register
-title: AddressBase Plus
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[Ordnance Survey]] Register [[AddressBase™]]
+title: AddressBase™ Plus
 type: text/vnd.tiddlywiki
 
+<<<
+AddressBase™ Plus contains current properties and addresses sourced from local authorities, Ordnance Survey and Royal Mail matched to the Unique Property Reference Number.
+
+It has more records than [[AddressBase™]] as it includes objects without postal addresses, such as subdivided properties, places of worship and community centres
+<<<

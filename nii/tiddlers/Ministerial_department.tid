@@ -2,5 +2,7 @@ created: 20150531184845436
 modified: 20150601112915121
 title: Ministerial department
 type: text/vnd.tiddlywiki
+tags: Organisation
+color: #6F777B
 
 {{ ||publisher-list }}

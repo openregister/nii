@@ -5,3 +5,6 @@ tags: [[National Information Infrastructure]] Dataset [[Government Accountabilit
 title: Listing of publishable central government tender documentation for tenders over £10,000
 type: text/vnd.tiddlywiki
 
+<<<
+Businesslink.gov.uk site contains the listing of publishable central government tender and contract information and documentation. This applies for all procurement over £10,000. The published dataset contains some meta data about each contract and then a list of the documents. The list of documents contains a URL allowing downloading of the individual documents.
+<<<

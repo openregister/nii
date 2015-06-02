@@ -5,3 +5,9 @@ tags: [[National Information Infrastructure]] Dataset [[Transport and Infrastruc
 title: Port Traffic Data
 type: text/vnd.tiddlywiki
 
+<<<
+Port traffic data - total tonnage broken down by port, broad cargo type, quarter, direction of flow, origin/destination port, shipper.
+
+Release Notes:
+Aggregated data published as National Statistics. http://www.dft.gov.uk/pgr/statistics/datatablespublications/maritime/ Contains personal data
+<<<

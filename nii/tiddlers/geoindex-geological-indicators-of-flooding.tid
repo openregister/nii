@@ -1,12 +1,12 @@
 created: 20150530180111932
 link: http://data.gov.uk/dataset/geoindex-geological-indicators-of-flooding
-modified: 20150530180339593
-tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[British Geological Survey]] Register
+modified: 20150602095321405
+tags: [[National Information Infrastructure]] Dataset [[Energy and the Environment]] Location [[British Geological Survey]] Register [[Broken link]]
 title: GeoIndex Geological Indicators of Flooding
 type: text/vnd.tiddlywiki
+
+From http://data.gov.uk/dataset/map-based-index-geoindex-geological-indicators-of-flooding :
 
 <<<
 This layer of the map based index (GeoIndex) shows where river floodplains and coastal plains in Britain are located and therefore the main areas at greatest risk of flooding. The map shows areas vulnerable to two main types of flooding: inland (river floodplains) and coastal/estuarine and is therefore a key tool in identifying those areas most vulnerable from future flooding. The map is based on observation of the types of geological deposit present and does not take into account any man-made influences such as house building or flood protection schemes. It also does not take into account low-lying areas where flooding could occur but where there are no materials indicating flooding in the geological past. The BGS Geological Indicators of Flooding data should therefore be regarded as complementary to, but not a replacement for, existing Environment Agency flood risk maps. The BGS Geological Indicators of Flooding (GIF) dataset is a digital map based on the BGS Digital Geological Map of Great Britain at the 1:50,000 scale.
 <<<
-
-// Origianl data.gov.uk link is 404, actually http://data.gov.uk/dataset/map-based-index-geoindex-geological-indicators-of-flooding //

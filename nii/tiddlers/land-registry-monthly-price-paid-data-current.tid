@@ -5,3 +5,18 @@ tags: [[National Information Infrastructure]] Dataset [[Energy and the Environme
 title: Land Registry Monthly Price Paid Data current
 type: text/vnd.tiddlywiki
 
+<<<
+Price Paid Data tracks the residential property sales in England and Wales that are lodged with Land Registry for registration.
+
+Our price paid data tracks the residential property sales in England and Wales that are lodged with us for registration. The dataset is a reliable source of house price information and consists of more than 24 million definitive records dating back to January 1995. For more information on this dataset and what it does and doesn't include, visit https://www.gov.uk/about-the-price-paid-data
+
+Choose from three options to select the data that best meets your requirements:
+
+monthly file: contains a single monthly file of the transactions received in the period from the first to the last day of the corresponding month, including any changes or deletions to previously downloaded data. The data is updated monthly and the average size of this file is 11 MB.
+
+single file: contains all the up to date data from 1995 to the current date. The data is updated monthly and the average size of this file is 2.86 GB.
+
+yearly files: contains annual files of up to date data, ranging from 1995 to the current date. Unlike the monthly files described above, yearly files are collated on the date of the transaction/deed date rather than the date that the information was lodged with Land Registry. The data is updated monthly and the sizes of these files range from 87 MB to 222 MB. If you are having trouble downloading any of the year files in full, they are also available as two smaller, evenly split CSV files.
+
+We strive to ensure that our public data is as accurate as possible but cannot guarantee that it is free from errors or fit for your purpose or use. Reports are based on data collected at the time a property transaction is registered with us and will not necessarily be up to date with the most recent information. See https://www.gov.uk/government/publications/land-registry-data/public-data#accuracy-of-the-data for more information.
+<<<

@@ -1,8 +1,15 @@
 created: 20150530161552640
 link: http://data.gov.uk/dataset/nhs_staff_earnings
-modified: 20150530161630995
-tags: [[National Information Infrastructure]] Dataset [[Health and Social Care]] Fiscal [[NHS Information Centre for Health and Social Care]] Register
+modified: 20150602094920920
+tags: [[National Information Infrastructure]] Dataset [[Health and Social Care]] Fiscal [[NHS Information Centre for Health and Social Care]] Register [[Broken link]]
 title: NHS Staff Earnings
 type: text/vnd.tiddlywiki
 
-//Broken link: http://data.gov.uk/data/search?q=nhs+staff+earnings //
+From http://data.gov.uk/dataset/nhs_staff_earnings_estimates :
+<<<
+These tables cover the period from 30 April 2008 through to the latest period and uses four main earnings measures.
+
+As expected with provisional statistics, some figures may be revised from month to month as issues are uncovered and resolved. No refreshes of the provisional data will take place either as part of the regular publication process, or where minor enhancements to the methodology have an insignificant impact on the figures at a national level. However, the provisional status allows for this to occur if it is determined that a refresh of data is required subsequent to initial release. Where a refresh of data occurs, it will be clearly documented in the publications.
+
+We welcome feedback on the methodology and tables within this publication. Please send your comments and suggestions, clearly stating 'NHS Staff Earnings' as the subject heading through to enquiries@hscic.gov.uk or 0300 303 5678.
+<<<

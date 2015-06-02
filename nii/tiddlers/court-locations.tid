@@ -5,3 +5,8 @@ tags: [[National Information Infrastructure]] Dataset [[Crime and Justice]] Loca
 title: Court locations
 type: text/vnd.tiddlywiki
 
+<<<
+List of all courts in England and Wales.
+
+Search tool with an API https://courttribunalfinder.service.gov.uk/courts Beta-service at the moment.
+<<<

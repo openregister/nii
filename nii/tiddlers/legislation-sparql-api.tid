@@ -5,3 +5,6 @@ tags: [[National Information Infrastructure]] Dataset [[Government Accountabilit
 title: Legislation SPARQL API
 type: text/vnd.tiddlywiki
 
+<<<
+SPARQL Endpoint provided by TSO for searching the linked data of legislation.gov.uk
+<<<
