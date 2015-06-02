@@ -1,5 +1,13 @@
-title: Higher Education Statistics: HE qualifications obtained in the UK by level, mode of study, domicile, gender, class of first degree and subject area
+created: 20150602201809344
 link: http://data.gov.uk/dataset/hesa-qualifications-in-uk-level-mode-of-study-domicile-gender-class-of-1st-degree-subject
-tags:  [[National Information Infrastructure]] Dataset Education [[Performance and Delivery]] [[Higher Education Statistics Agency]]
+modified: 20150602201808203
+tags: [[National Information Infrastructure]] Dataset Education [[Performance and Delivery]] [[Higher Education Statistics Agency]] Statistics
+title: Higher Education Statistics: HE qualifications obtained in the UK by level, mode of study, domicile, gender, class of first degree and subject area
 type: text/vnd.tiddlywiki
 
+<<<
+Provider: Department for Business, Innovation and Skills
+
+Education
+This dataset provides the higher education statistics for all higher education qualifications obtained in the UK by level, mode of study, domicile, gender, class of first degree and subject area.
+<<<

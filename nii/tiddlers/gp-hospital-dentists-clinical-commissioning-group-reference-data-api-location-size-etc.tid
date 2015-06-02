@@ -1,5 +1,10 @@
 title: GP/hospital/dentists/Clinical Commissioning Group reference data API (location, size etc)
 link: http://www.nhs.uk/aboutnhschoices/professionals/syndication/Pages/Webservices.aspx
-tags:  [[National Information Infrastructure]] Dataset [[Health and Social Care]] Location [[NHS England]]
+tags:  [[National Information Infrastructure]] Dataset [[Health and Social Care]] Location [[NHS England]] Other
 type: text/vnd.tiddlywiki
 
+<<<
+What is NHS Choices syndication?
+
+Syndication allows you to pull content from the NHS Choices website via a feed. This means that any information you syndicate will remain up-to-date, regardless of any changes we make. This content spans the website, meaning you can pull in single articles on a condition, or whole chunks of information on stopping smoking or weight loss. We have four content formats available for syndication:
+<<<

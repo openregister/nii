@@ -1,5 +1,16 @@
 title: Hospital Activity Data
 link: http://www.data.gov.uk/dataset/hospital_activity_data__
-tags:  [[National Information Infrastructure]] Dataset [[Health and Social Care]] [[Performance and Delivery]] [[NHS England]]
+tags:  [[National Information Infrastructure]] Dataset [[Health and Social Care]] [[Performance and Delivery]] [[NHS England]] Statistics
 type: text/vnd.tiddlywiki
 
+<<<
+Monthly activity data relating to elective and non-elective inpatient admissions (or first finished consultant episodes FFCEs) and outpatient referrals and attendances for first consultant outpatient appointments.
+
+Source agency: NHS England
+
+Designation: Official Statistics not designated as National Statistics
+
+Language: English
+
+Alternative title: Monthly Activity Return
+<<<

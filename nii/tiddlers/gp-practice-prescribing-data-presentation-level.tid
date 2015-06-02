@@ -1,5 +1,26 @@
 title: GP practice prescribing data - Presentation level
 link: http://data.gov.uk/dataset/prescribing-by-gp-practice-presentation-level
-tags:  [[National Information Infrastructure]] Dataset [[Health and Social Care]] Fiscal [[NHS Information Centre for Health and Social Care]]
+tags:  [[National Information Infrastructure]] Dataset [[Health and Social Care]] Fiscal [[NHS Information Centre for Health and Social Care]] Register
 type: text/vnd.tiddlywiki
 
+<<<
+Warning: Large file size (over 1GB).
+
+Each monthly data set is large (over 4 million rows), but can be viewed in standard software such as Microsoft WordPad (save by right-clicking on the file name and selecting 'Save Target As', or equivalent on Mac OSX). It is then possible to select the required rows of data and copy and paste the information into another software application, such as a spreadsheet.
+
+What does the data cover?
+
+General practice prescribing data is a list of all medicines, dressings and appliances that are prescribed and dispensed each month. A record will only be produced when this has occurred and there is no record for a zero total.
+
+For each practice in England, the following information is presented at presentation level for each medicine, dressing and appliance, (by presentation name):
+
+the total number of items prescribed and dispensed
+the total net ingredient cost
+the total actual cost
+the total quantity
+The data covers NHS prescriptions written in England and dispensed in the community in the UK. Prescriptions written in England but dispensed outside England are included. The data includes prescriptions written by GPs and other non-medical prescribers (such as nurses and pharmacists) who are attached to GP practices.
+
+GP practices are identified only by their national code, so an additional data file - linked to the first by the practice code - provides further detail in relation to the practice.
+
+Presentations are identified only by their BNF code, so an additional data file - linked to the first by the BNF code - provides the chemical name for that presentation.
+<<<
